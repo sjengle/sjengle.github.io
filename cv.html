@@ -1,0 +1,58 @@
+---
+layout: default
+title: Curriculum Vitae
+---
+
+<h1 class="page-header">Curriculum Vitae</h1>
+
+<p><img src="{{ site.url }}/img/research.jpg"  class="img-responsive img-thumbnail" alt="Research Property" width="400"></a></p>
+
+<div id="cv">
+
+{% for category in site.data.cv %}
+
+<a name="{{ category.label | downcase | split:' ' | first }}"></a>
+<h2>{{ category.label }}</h2>
+
+{% assign prev = '0000' %}
+
+<table class="table table-hover">
+<tbody>
+
+    {% for item in category.items %}
+    <tr>
+
+    {% if item.year != prev %}
+        {% assign prev = item.year %}
+        <td>{{ item.year }}</td>
+    {% else %}
+        <td class="text-muted">{{ item.year }}</td>
+    {% endif %}
+
+        <td class="stretch">
+            <strong>{{ item.name }}</strong>
+            {% if item.flag %}
+            <span class="label label-info">{{ item.flag }}</span>
+            {% endif %}
+            <br>{{ item.data }},
+            {% if item.span %}
+            {{ item.term }}.
+            {% else %}
+            {{ item.term }} {{ item.year }}.
+            {% endif %}
+            {% if item.link %}
+            <a href="{{ item.link }}" class="fa fa-link text-muted"></a>
+            {% endif %}
+            {% if item.file %}
+            <a href="{{ item.file }}" class="fa fa-file-o text-muted"></a>
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+
+</tbody>
+</table>
+
+{% endfor %}
+
+</div>

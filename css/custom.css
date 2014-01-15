@@ -1,0 +1,39 @@
+#contact {
+    font-size: 13pt;
+    font-weight: 300;
+}
+
+#cv table tr td {
+    border: none;
+}
+
+.stretch {
+    width: 100%;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 11pt;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+.navbar {
+    font-weight: 300;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
