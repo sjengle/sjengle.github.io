@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 <h1 class="page-header">Curriculum Vitae</h1>
 
-<p><img src="{{ site.url }}/img/research.jpg"  class="img-responsive img-thumbnail" alt="Research Property" width="400"></a></p>
+<p><img src="{{ site.url }}/img/research.jpg"  class="img-responsive img-thumbnail hidden-print " alt="Research Property" width="400"></a></p>
 
 <div id="cv">
 
@@ -41,10 +41,10 @@ title: Curriculum Vitae
             {{ item.term }} {{ item.year }}.
             {% endif %}
             {% if item.link %}
-            <a href="{{ item.link }}" class="fa fa-link text-muted"></a>
+            <a href="{{ item.link }}" class="fa fa-link text-muted hidden-print "></a>
             {% endif %}
             {% if item.file %}
-            <a href="{{ item.file }}" class="fa fa-file-o text-muted"></a>
+            <a href="{{ item.file }}" class="fa fa-file-o text-muted hidden-print "></a>
             {% endif %}
         </td>
     </tr>
