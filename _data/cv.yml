@@ -197,6 +197,13 @@
     link: 'http://www.usfca.edu/artsci/csg/'
     file:
     span: true
+  - name: 'Faculty Search Committee'
+    data: 'Data Science'
+    term: 'Spring'
+    year: '2014'
+    flag: 'New'
+    link:
+    file:
   - name: 'CS Tutoring Center'
     data: 'Faculty Sponsor, Department of Computer Science'
     term: 'Fall 2013&ndash;Spring 2014'
