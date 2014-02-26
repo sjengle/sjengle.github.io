@@ -197,18 +197,25 @@
     link: 'http://www.usfca.edu/artsci/csg/'
     file:
     span: true
-  - name: 'Faculty Search Committee'
-    data: 'Data Science'
+  - name: 'Open Classroom Host'
+    data: 'Educational Technology Focus, Center for Teaching Excellence'
     term: 'Spring'
     year: '2014'
     flag: 'New'
+    link: 'http://usfcte.net/activities/openclassrooms/hosts/'
+    file:
+  - name: 'Faculty Search Committee'
+    data: 'Mathematics'
+    term: 'Spring'
+    year: '2014'
+    flag:
     link:
     file:
   - name: 'CS Tutoring Center'
     data: 'Faculty Sponsor, Department of Computer Science'
     term: 'Fall 2013&ndash;Spring 2014'
     year: '2014'
-    flag: 'New'
+    flag:
     link: 'http://tutoringcenter.cs.usfca.edu/'
     file:
     span: true
@@ -249,6 +256,13 @@
     year: '2014'
     flag: 'New'
     link: 'http://vizsec.org/'
+    file:
+  - name: 'Program Committee'
+    data: 'Grace Hopper Celebration of Women in Computing, Security/Privacy Track'
+    term: 'October'
+    year: '2014'
+    flag: 'New'
+    link: 'http://gracehopper.org/call-for-participation/#SEC'
     file:
   - name: 'Poster Chair'
     data: 'IEEE Symposium on Security and Privacy (IEEE S&P), San Jose, California'
