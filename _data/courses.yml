@@ -167,7 +167,6 @@
   year: '2014'
   sort: 'CS212-2014-01'
   link: 'https://usfca.instructure.com/courses/1215994/assignments/syllabus'
-  show: true
 - id: 'CS 695'
   name: 'Practicum Study'
   code: 'CS 695-01'
@@ -175,7 +174,6 @@
   year: '2014'
   sort: 'CS695-2014-01'
   link: 'https://usfca.instructure.com/courses/1216008/assignments/syllabus'
-  show: true
 - id: 'MSAN 622'
   name: 'Information Visualization'
   code: 'MSAN 622-01'
@@ -183,4 +181,28 @@
   year: '2014'
   link: 'http://msan622.github.io/'
   sort: 'MSAN622-2014-01'
+# SUMMER 2014
+- id: 'CS 695'
+  name: 'Practicum Study'
+  code: 'CS 695-01'
+  term: 'Summer'
+  year: '2014'
+  sort: 'CS695-2014-06'
+  link: 'https://usfca.instructure.com/courses/1298148/assignments/syllabus'
+# FALL 2014
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-01'
+  term: 'Fall'
+  year: '2014'
+  sort: 'CS212-2014-08'
+  link: 'https://usfca.instructure.com/courses/1298665/assignments/syllabus'
+  show: true
+- id: 'CS 695'
+  name: 'Practicum Study'
+  code: 'CS 695-01'
+  term: 'Fall'
+  year: '2014'
+  sort: 'CS695-2014-08'
+  link: 'https://usfca.instructure.com/courses/1298684/assignments/syllabus'
   show: true
