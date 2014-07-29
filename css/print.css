@@ -1,0 +1,26 @@
+@media print {
+    @page {
+        margin: 1in;
+    }
+
+    @page :first {
+        margin: 1in;
+    }
+
+    body {
+        width: 6.5in;
+        padding-top: 0in;
+    }
+
+    .container {
+        padding: 0in;
+    }
+
+    .page-header {
+        margin-top: 0in;
+    }
+
+    a[href]:after {
+        content: none;
+    }
+}
