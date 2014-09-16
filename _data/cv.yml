@@ -204,6 +204,14 @@
     link: 'http://www.usfca.edu/artsci/csg/'
     file:
     span: true
+  - name: 'Data Visualization Speaker Series'
+    data: 'Co-Organizer, College of Arts and Sciences'
+    term: 'Fall 2013&ndash;Present'
+    year: '2014'
+    flag:
+    link:
+    file:
+    span: true
   - name: 'Open Classroom Host'
     data: 'Educational Technology Focus, Center for Teaching Excellence'
     term: 'Spring'
