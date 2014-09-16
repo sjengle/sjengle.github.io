@@ -9,30 +9,28 @@ title: Home
 
 <p>I am an Assistant Professor in the <a href="http://cs.usfca.edu/">Department of Computer Science</a> at the <a href="http://www.usfca.edu/">University of San Francisco</a>. I am also the Graduate Director for the <a href="http://www.usfca.edu/artsci/csg/">Masters in Science in Computer Science (MSCS)</a> program, and teach courses for the <a href="https://www.usfca.edu/artsci/analytics/">Masters in Science in Analytics (MSAN)</a> program.</p>
 
-<h2>Announcements</h2>
-
-{% for post in site.posts limit:5 %}
-<div class="panel panel-default">
-<div class="panel-heading"><h4 class="panel-title">{{ post.title }} &nbsp; <small>Posted {{ post.date | date_to_string }}</small></h4></div>
-<div class="panel-body">
-{{ post.content }}
-</div>
-</div>
-{% endfor %}
-
-<p><a href="{{ site.url }}/announcements.html">&raquo; See all announcements. &laquo;</a>
-
 <div class="row">
-    <div class="col-xs-12 col-md-4">
-    <h2>Latest Tweets</h2>
+    <div class="col-md-7 col-sm-7 col-xs-12">
+        <h2>Announcements</h2>
 
-    <a class="twitter-timeline" href="https://twitter.com/sjengle" data-widget-id="423310727722434560" data-chrome="nofooter">Tweets by @sjengle</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        {% for post in site.posts limit:5 %}
+        <div class="panel panel-default">
+        <div class="panel-heading"><h4 class="panel-title">{{ post.title }} &nbsp; <small>Posted {{ post.date | date_to_string }}</small></h4></div>
+        <div class="panel-body">
+        {{ post.content }}
+        </div>
+        </div>
+        {% endfor %}
+
+        <p><a href="{{ site.url }}/announcements.html">&raquo; See all announcements. &laquo;</a>
+        </p>
     </div>
 
-    <div class="col-xs-12 col-md-8">
-    <h2>Weekly Schedule</h2>
+    <div class="col-md-5 col-sm-5 hidden-xs">
+        <h2>Latest Tweets</h2>
 
-    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=cs.usfca.edu_3gh6b2i2l34rsh6mbcos8qrapg%40group.calendar.google.com&amp;color=%23333333&amp;src=cs.usfca.edu_m4pfugives9824svmqi94vuchk%40group.calendar.google.com&amp;color=%23333333&amp;src=cs.usfca.edu_hnhpq1ne20p0pn3svpu6plkcm8%40group.calendar.google.com&amp;color=%23333333&amp;src=cs.usfca.edu_ipmfs4o97n30h3fco7vih84ehs%40group.calendar.google.com&amp;color=%23333333&amp;src=cs.usfca.edu_tp0ff9slj7vauhfvv9nhb62dpc%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+        <p><a class="twitter-timeline" href="https://twitter.com/sjengle" data-widget-id="423310727722434560" data-chrome="nofooter">Tweets by @sjengle</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
     </div>
+
 </div>
