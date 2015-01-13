@@ -272,18 +272,25 @@
     flag: 'New'
     link: 'http://www.ieee-security.org/TC/SP2015/'
     file:
+  - name: 'Program Committee'
+    data: 'Cyber and Information Security Research (CISR) Conference, Oak Ridge, Tennessee'
+    term: 'April'
+    year: '2015'
+    flag: 'New'
+    link: 'http://www.cisr.ornl.gov/cisrc15/'
+    file:
   - name: 'Program Chair'
     data: 'Symposium on Visualization for Cyber Security (VizSec), Paris, France'
     term: 'November'
     year: '2014'
-    flag: 'New'
+    flag:
     link: 'http://vizsec.org/'
     file:
   - name: 'Program Committee'
     data: 'Grace Hopper Celebration of Women in Computing, Security/Privacy Track'
     term: 'October'
     year: '2014'
-    flag: 'New'
+    flag:
     link: 'http://gracehopper.org/call-for-participation/#SEC'
     file:
   - name: 'Poster Chair'
