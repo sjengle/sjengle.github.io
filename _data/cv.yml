@@ -102,11 +102,18 @@
     file:
 - label: 'Presentations'
   items:
+  - name: 'Deconstructing VizSec with Lane Harrison and Sophie Engle'
+    data: 'Data Driven Security Podcast &ndash; Episode 13'
+    term: 'December'
+    year: '2014'
+    flag: 'New'
+    link: 'http://datadrivensecurity.info/podcast/data-driven-security-episode-13.html'
+    file:
   - name: 'How Good People Make Bad Graphs: Unintentional Fibbing with Visualization'
     data: 'Big Data Visualization &ndash; South Bay (Meetup), CA Technologies Inc., Santa Clara, California'
     term: 'May'
     year: '2014'
-    flag: 'New'
+    flag:
     link: 'http://www.meetup.com/Big-Data-Visualisation-South-Bay/events/179051462/'
     file: 'http://files.meetup.com/10892752/Slides_SophieEngle.pdf'
   - name: 'Reflecting on Visualization for Cyber Security'
