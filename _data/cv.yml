@@ -99,7 +99,7 @@
     year: '2006'
     flag:
     link: 'http://nob.cs.ucdavis.edu/bishop/papers/2006-cisse-1/'
-    file:
+    file: 'http://cisse.info/resources/archives/category/6-papers?download=46:s01p03-2006'
 - label: 'Presentations'
   items:
   - name: 'Deconstructing VizSec with Lane Harrison and Sophie Engle'
