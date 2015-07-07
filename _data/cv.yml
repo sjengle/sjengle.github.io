@@ -198,27 +198,34 @@
   - name: 'Graduate Director'
     data: 'Masters in Science in Computer Science Program'
     term: 'Spring 2014&ndash;Present'
-    year: '2014'
-    flag: 'New'
+    year: '2015'
+    flag:
     link: 'http://www.usfca.edu/artsci/csg/'
     file:
     span: true
   - name: 'Graduate Advisor'
     data: 'Masters in Science in Computer Science Program'
     term: 'Fall 2013&ndash;Present'
-    year: '2014'
-    flag: 'New'
+    year: '2015'
+    flag:
     link: 'http://www.usfca.edu/artsci/csg/'
     file:
     span: true
   - name: 'Data Visualization Speaker Series'
     data: 'Co-Organizer, College of Arts and Sciences'
     term: 'Fall 2013&ndash;Present'
-    year: '2014'
+    year: '2015'
     flag:
     link:
     file:
     span: true
+  - name: 'TechConnect'
+    data: 'Participant, College of Arts and Sciences'
+    term: 'Spring 2015'
+    year: '2015'
+    flag:
+    link:
+    file:
   - name: 'Open Classroom Host'
     data: 'Educational Technology Focus, Center for Teaching Excellence'
     term: 'Spring'
@@ -272,18 +279,25 @@
     file:
 - label: 'Professional Service'
   items:
+  - name: 'Publication Chair'
+    data: 'Symposium on Visualization for Cyber Security (VizSec), Chicago, Illinois'
+    term: 'October'
+    year: '2015'
+    flag: 'New'
+    link: 'http://vizsec.org/'
+    file:
   - name: 'Poster Chair'
     data: 'IEEE Symposium on Security and Privacy (IEEE S&P), San Jose, California'
     term: 'May'
     year: '2015'
-    flag: 'New'
+    flag:
     link: 'http://www.ieee-security.org/TC/SP2015/'
     file:
   - name: 'Program Committee'
     data: 'Cyber and Information Security Research (CISR) Conference, Oak Ridge, Tennessee'
     term: 'April'
     year: '2015'
-    flag: 'New'
+    flag:
     link: 'http://www.cisr.ornl.gov/cisrc15/'
     file:
   - name: 'Program Chair'
@@ -291,7 +305,7 @@
     term: 'November'
     year: '2014'
     flag:
-    link: 'http://vizsec.org/'
+    link: 'http://vizsec.org/vizsec2014/'
     file:
   - name: 'Program Committee'
     data: 'Grace Hopper Celebration of Women in Computing, Security/Privacy Track'
