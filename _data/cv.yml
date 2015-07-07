@@ -78,14 +78,14 @@
     year: '2009'
     flag:
     link: 'http://doi.ieeecomputersociety.org/10.1109/HICSS.2009.617'
-    file:
+    file: 'http://www.computer.org/csdl/proceedings/hicss/2009/3450/00/02-01-15.pdf'
   - name: 'We Have Met the Enemy and He is Us'
     data: 'Matt Bishop, Sophie Engle, Sean Peisert, Sean Whalen, and Carrie Gates, in the <em>Proceedings of the 2008 New Security ParadigmsWorkshop (NSPW),</em> p1&ndash;12'
     term: 'September'
     year: '2008'
     flag:
     link: 'http://doi.acm.org/10.1145/1595676.1595678'
-    file:
+    file: 'http://nspw.org/papers/2008/nspw2008-bishop.pdf'
   - name: 'Source Code Review of the Sequoia Voting System'
     data: "Matt Blaze, Arel Cordero, Sophie Engle, Chris Karlof, Naveen Sastry, Micah Sherr, Till Stegers, and Ka-Ping Yee, report prepared for <em>California Secretary of State's Top-to-Bottom Review of California Voting Systems</em>"
     term: 'June'
