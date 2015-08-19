@@ -214,7 +214,7 @@
   year: '2015'
   sort: 'MSAN622-2015-01'
   link: 'https://usfca.instructure.com/courses/1480739/assignments/syllabus'
-  show: true
+  show: false
 - id: 'CS 695'
   name: 'Practicum Study'
   code: 'CS 695-01'
@@ -222,4 +222,37 @@
   year: '2015'
   sort: 'CS695-2015-01'
   link: 'https://usfca.instructure.com/courses/1479075/assignments/syllabus'
+  show: false
+# FALL 2015
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-01'
+  term: 'Fall'
+  year: '2015'
+  sort: 'CS212-2015-08'
+  link: 'http://cs212.github.io/fall2015/'
+  show: true
+- id: 'CS 384'
+  name: 'Research Seminar in Computer Science'
+  code: 'CS 384-01'
+  term: 'Fall'
+  year: '2015'
+  sort: 'CS384-2015-08'
+  link: 'http://cs694.github.io/fall2015/'
+  show: true
+- id: 'CS 694'
+  name: 'Research Seminar in Computer Science'
+  code: 'CS 694-01'
+  term: 'Fall'
+  year: '2015'
+  sort: 'CS694-2015-08'
+  link: 'http://cs694.github.io/fall2015/'
+  show: true
+- id: 'CS 695'
+  name: 'Practicum Study'
+  code: 'CS 695-01'
+  term: 'Fall'
+  year: '2015'
+  sort: 'CS695-2015-08'
+  link: 'https://usfca.instructure.com/courses/1553690/assignments/syllabus'
   show: true
