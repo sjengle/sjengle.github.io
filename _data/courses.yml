@@ -136,7 +136,7 @@
   term: 'Spring'
   year: '2013'
   sort: 'MSAN622-2012-01'
-  link: 'http://datavis.analytics.usfca.edu/'
+  link: 'https://sites.google.com/a/analytics.usfca.edu/msan-622-experimental-design-and-visualization/'
 # FALL 2013
 - id: 'CS 212'
   name: 'Software Development'
