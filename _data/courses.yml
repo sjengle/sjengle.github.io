@@ -231,23 +231,23 @@
   year: '2015'
   sort: 'CS212-2015-08'
   link: 'http://cs212.github.io/fall2015/'
-  show: true
+  show: false
 - id: 'CS 384'
   name: 'Research Seminar in Computer Science'
   code: 'CS 384-01'
   term: 'Fall'
   year: '2015'
   sort: 'CS384-2015-08'
-  link: 'http://cs694.github.io/fall2015/'
-  show: true
+  link: 'http://researchseminar.cs.usfca.edu/fall2015/'
+  show: false
 - id: 'CS 694'
   name: 'Research Seminar in Computer Science'
   code: 'CS 694-01'
   term: 'Fall'
   year: '2015'
   sort: 'CS694-2015-08'
-  link: 'http://cs694.github.io/fall2015/'
-  show: true
+  link: 'http://researchseminar.cs.usfca.edu/fall2015/'
+  show: false
 - id: 'CS 695'
   name: 'Practicum Study'
   code: 'CS 695-01'
@@ -255,4 +255,37 @@
   year: '2015'
   sort: 'CS695-2015-08'
   link: 'https://usfca.instructure.com/courses/1553690/assignments/syllabus'
+  show: false
+# SPRING 2016
+- id: 'CS 360'
+  name: 'Data Visualization'
+  code: 'CS 360-01'
+  term: 'Spring'
+  year: '2016'
+  sort: 'CS360-2016-01'
+  link: 'http://cs360.cs.usfca.edu/spring2016/'
+  show: true
+- id: 'CS 384'
+  name: 'Research Seminar in Computer Science'
+  code: 'CS 384-01'
+  term: 'Spring'
+  year: '2016'
+  sort: 'CS384-2016-01'
+  link: 'http://researchseminar.cs.usfca.edu/spring2016/'
+  show: false
+- id: 'CS 694'
+  name: 'Research Seminar in Computer Science'
+  code: 'CS 694-01'
+  term: 'Spring'
+  year: '2016'
+  sort: 'CS694-2016-01'
+  link: 'http://researchseminar.cs.usfca.edu/spring2016/'
+  show: true
+- id: 'CS 695'
+  name: 'Practicum Study'
+  code: 'CS 695-01'
+  term: 'Spring'
+  year: '2016'
+  sort: 'CS695-2016-01'
+  link: 'https://usfca.instructure.com/courses/1558957/assignments/syllabus'
   show: true
