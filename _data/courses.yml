@@ -230,7 +230,7 @@
   term: 'Fall'
   year: '2015'
   sort: 'CS212-2015-08'
-  link: 'http://cs212.github.io/fall2015/'
+  link: 'http://usf-cs212-2015.github.io/fall2015/'
   show: false
 - id: 'CS 384'
   name: 'Research Seminar in Computer Science'
