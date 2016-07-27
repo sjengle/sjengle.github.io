@@ -264,7 +264,7 @@
   year: '2016'
   sort: 'CS360-2016-01'
   link: 'http://cs360.cs.usfca.edu/spring2016/'
-  show: true
+  show: false
 - id: 'CS 384'
   name: 'Research Seminar in Computer Science'
   code: 'CS 384-01'
@@ -280,7 +280,7 @@
   year: '2016'
   sort: 'CS694-2016-01'
   link: 'http://researchseminar.cs.usfca.edu/spring2016/'
-  show: true
+  show: false
 - id: 'CS 695'
   name: 'Practicum Study'
   code: 'CS 695-01'
@@ -288,4 +288,21 @@
   year: '2016'
   sort: 'CS695-2016-01'
   link: 'https://usfca.instructure.com/courses/1558957/assignments/syllabus'
+  show: false
+# FALL 2016
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-01'
+  term: 'Fall'
+  year: '2016'
+  sort: 'CS212-2016-08a'
+  link: '#'
+  show: true
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-02'
+  term: 'Fall'
+  year: '2016'
+  sort: 'CS212-2016-08b'
+  link: '#'
   show: true

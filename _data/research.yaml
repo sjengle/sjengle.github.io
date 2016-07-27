@@ -1,0 +1,81 @@
+- label: 'Refereed Publications'
+  items:
+    - year: 2016
+      name: 'Do Defaults Matter? Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots'
+      cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper (to appear), in the <em>Proceedings ofthe 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
+      link: false
+      tags: ['datavis']
+    - year: 2013
+      name: 'Reflecting on Visualization for Cyber Security'
+      cite: 'Carrie Gates and Sophie Engle, in the <em>Proceedings of the 2013 IEEE International Conference on Intelligence and Security Informatics (ISI)</em>, from the <em>Evaluating Security Visualizations Workshop</em>, Seattle, Washington, p275–277, June 2013'
+      link: 'http://dx.doi.org/10.1109/ISI.2013.6578842'
+      tags: ['security', 'datavis']
+    - year: 2013
+      name: 'Expert Code Review and Mastery Learning in a Software Development Course'
+      cite: '<b>Sophie Engle</b> and Sami Rollins, in the <em>Journal of Computing Sciences in Colleges</em>, Volume 28, Number 4, p139–147, April 2013'
+      link: 'http://dl.acm.org/citation.cfm?id=2458539.2458564'
+      tags: ['education']
+    - year: 2012
+      name: 'Visualizing Distributed Memory Computations with Hive Plots'
+      cite: '<b>Sophie Engle</b> and Sean Whalen, in the <em>Proceedings of the Ninth International Symposium on Visualization for Cyber Security (VizSec)</em>, Seattle, Washington, p56–63, October 2012'
+      link: 'http://dx.doi.org/10.1145/2379690.2379698'
+      tags: ['security', 'datavis']
+    - year: 2012
+      name: 'A Taxonomy of Buffer Overflow Characteristics'
+      cite: 'Matt Bishop, <b>Sophie Engle</b>, Damien Howard, and Sean Whalen, in the <em>IEEE Transactions on Dependable and Secure Computing (TDSC)</em>, Volume 9, Issue 3, p305–317, June 2012'
+      link: 'http://dx.doi.org/10.1109/TDSC.2012.10'
+      tags: ['security']
+    - year: 2012
+      name: 'Network-Theoretic Classification of Parallel Computation Patterns'
+      cite: 'Sean Whalen, <b>Sophie Engle</b>, Sean Peisert, and Matt Bishop, in the <em>International Journal of High Performance Computing Applications (IJHPCA)</em>, Volume 26, Number 2, p159–169, May 2012'
+      link: 'http://dx.doi.org/10.1177/1094342012436618'
+      tags: ['security']
+    - year: 2010
+      name: 'Modeling and Analyzing Faults to Improve Election Process Robustness'
+      cite: 'Borislava I. Simidchieva, <b>Sophie Engle</b>, Michael Clifford, Alicia Clay Jones, Sean Peisert, Matt Bishop, Lori A. Clarke, and Leon J. Osterweil, in the <em>Proceedings of the USENIX Electronic Voting Technology Workshop/Workshop on Trustworthy Elections (EVT/WOTE)</em>, June 2010'
+      link: 'http://dl.acm.org/citation.cfm?id=1924892.1924898'
+      tags: ['security']
+    - year: 2009
+      name: 'Case Studies of an Insider Framework'
+      cite: 'Matt Bishop, <b>Sophie Engle</b>, Sean Peisert, Sean Whalen, and Carrie Gates, in the <em>Proceedings of the 42nd Hawaii International Conference on System Sciences (HICSS)</em>, p1–10, 2009'
+      link: 'http://doi.ieeecomputersociety.org/10.1109/HICSS.2009.617'
+      tags: ['security']
+    - year: 2008
+      name: 'We Have Met the Enemy and He is Us'
+      cite: 'Matt Bishop, <b>Sophie Engle</b>, Sean Peisert, Sean Whalen, and Carrie Gates, in the <em>Proceedings of the 2008 New Security Paradigms Workshop (NSPW)</em>, p1–12, September 2008'
+      link: 'http://doi.acm.org/10.1145/1595676.1595678'
+      tags: ['security']
+    - year: 2006
+      name: 'The Software Assurance CBK and University Curricula'
+      cite: 'Matt Bishop and <b>Sophie Engle</b>, in the <em>Proceedings from the Tenth Colloquium on Information Systems Security Education (CISSE)</em>, p14&ndash;21, June 2006'
+      link: 'http://cisse.info/resources/archives/category/6-papers?download=46:s01p03-2006'
+      tags: ['security', 'education']
+- label: 'Unrefereed Publications and Reports'
+  items:
+    - year: 2010
+      name: 'A Risk Management Approach to Insider Threat'
+      cite: 'Matt Bishop, <b>Sophie Engle</b>, Deborah A. Frincke, Carrie Gates, Frank L. Greitzer, Sean Peisert, and Sean Whalen, in <em>Insider Threats in Cyber Security</em>,  Advances in Information Security, Volume 49, p115&ndash;137, Springer, 2010'
+      link: 'http://dx.doi.org/10.1007/978-1-4419-7133-3_6'
+      tags: ['security']
+    - year: 2010
+      name: 'A Policy-Based Vulnerability Analysis Framework'
+      cite: '<b>Sophie Engle</b>, Ph.D. Dissertation, Technical Report CSE-2010-06, Department of Computer Science, University of California, Davis, March 2010'
+      link: 'http://dl.acm.org/citation.cfm?id=2019781'
+      tags: ['security']
+    - year: 2007
+      name: 'Source Code Review of the Sequoia Voting System'
+      cite: "Matt Blaze, Arel Cordero, <b>Sophie Engle</b>, Chris Karlof, Naveen Sastry, Micah Sherr, Till Stegers, and Ka-Ping Yee, Official Report Prepared for <em>California Secretary of State's Top-to-Bottom Review of California Voting Systems</em>, June 2007"
+      link: 'http://www.sos.ca.gov/elections/voting-systems/oversight/top-bottom-review/'
+      tags: ['security']
+- label: 'Posters and Contests'
+  items:
+    - year: 2016
+      name: 'Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique'
+      cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster (to appear), Symposium on Visual Information Communication and Interaction (VINCI), Dallas, TX, September 2016'
+      link: false
+      tags: ['datavis']
+    - year: 2006
+      name: 'Free Your Data! Cenimation: Visualization for Constrained Displays'
+      cite: '<b>Sophie Engle</b>, James Shearer, Michael Ogawa, Steve Haroz, and Kwan-Liu Ma, Creative Winner, IEEE InfoVis Visualization Contest, 2006'
+      link: 'https://sites.google.com/site/jshearer/cenimation'
+      tags: ['datavis']

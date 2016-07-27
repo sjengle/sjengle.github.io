@@ -1,36 +1,34 @@
 ---
 layout: default
-title: Home
+title: Announcements
 ---
 
-<h1 class="page-header">Welcome</h1>
+<!-- Announcements -->
+<table class="table-hover table-dates">
+  <tbody>
+    <tr>
+      <th>2016.06.23</th>
+      <td>Our short paper (with 2 undergraduate CS students) and poster (with 2 graduate CS students) have been accepted to <strong><a href="http://vinci-conf.org/program.html">VINCI 2016</a></strong>!</td>
+    </tr>
 
-<p><a href="http://www.usfca.edu/"><img src="{{ site.url }}/img/einstein.jpg"  class="img-responsive img-thumbnail" alt="Unversity of San Francisco" width="400"></a></p>
+    <tr>
+      <th>2016.06.01</th>
+      <td>Our workshop on <strong><a href="http://vgl.cs.usfca.edu/pdvw/2016/">Innovations in Pedagogy of Data Visualization</a></strong> was accepted to <a href="http://ieeevis.org/year/2016/info/overview-amp-topics/workshops">IEEE VIS 2016</a>.
+    </tr>
 
-<p>I am an Assistant Professor in the <a href="http://cs.usfca.edu/">Department of Computer Science</a> at the <a href="http://www.usfca.edu/">University of San Francisco</a>. I am also the Graduate Director for the <a href="http://www.usfca.edu/artsci/csg/">Masters in Science in Computer Science (MSCS)</a> program, and teach courses for the <a href="https://www.usfca.edu/artsci/analytics/">Masters in Science in Analytics (MSAN)</a> program.</p>
+    <tr>
+      <th>2016.05.06</th>
+      <td>I received the <strong><a href="https://myusf.usfca.edu/its/cit/awards-for-innovation/recipients">Innovation in Teaching and Technology Award</a></strong> from the <a href="https://myusf.usfca.edu/its/cit">Center for Instruction and Technology (CIT)</a>. <i class="fa fa-trophy"></i>
+    </tr>
 
-<div class="row">
-    <div class="col-md-7 col-sm-7 col-xs-12">
-        <h2>Announcements</h2>
+    <tr>
+      <th>2016.02.07</th>
+      <td>Our lineup for the Spring 2016 <strong><a href="http://vgl.cs.usfca.edu/events/">Data Visualization Speaker Series</a></strong> is up!
+    </tr>
+  </tbody>
+</table>
 
-        {% for post in site.posts limit:5 %}
-        <div class="panel panel-default">
-        <div class="panel-heading"><h4 class="panel-title">{{ post.title }} &nbsp; <small>Posted {{ post.date | date_to_string }}</small></h4></div>
-        <div class="panel-body">
-        {{ post.content }}
-        </div>
-        </div>
-        {% endfor %}
+<!-- Biography -->
+<h3>Biography</h3>
 
-        <p><a href="{{ site.url }}/announcements.html">&raquo; See all announcements. &laquo;</a>
-        </p>
-    </div>
-
-    <div class="col-md-5 col-sm-5 hidden-xs">
-        <h2>Latest Tweets</h2>
-
-        <p><a class="twitter-timeline" href="https://twitter.com/sjengle" data-widget-id="423310727722434560" data-chrome="nofooter">Tweets by @sjengle</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
-    </div>
-
-</div>
+<p>I graduated with my Ph.D. in <a href="http://www.cs.ucdavis.edu/">Computer Science</a> from the <a href="http://www.ucdavis.edu/">University of California, Davis</a> under the guidance of <a href="http://nob.cs.ucdavis.edu/~bishop/">Matt Bishop</a>, <a href="http://www.cs.ucdavis.edu/~peisert/">Sean Peisert</a>, and many others at the <a href="http://seclab.cs.ucdavis.edu/">SecLab</a>. I received my B.S. in <a href="http://www.unomaha.edu/college-of-information-science-and-technology/computer-science/">Computer Science</a> from the <a href="http://www.unomaha.edu/">University of Nebraska at Omaha</a>, studying networking and computer security with <a href="http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/ken-dick.php">Ken Dick</a> and <a href="http://informatics.usc.edu/people/burnham-blaine.htm">Blaine Burnham</a> at the <a href="http://pki.nebraska.edu/">Peter Kiewit Institute</a>. I have many research interests, including data visualization, computer security, and computer science education.</p>

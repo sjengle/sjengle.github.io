@@ -1,0 +1,24 @@
+---
+layout: default
+title: Research
+---
+
+{% for category in site.data.research %}{%
+  assign prev = 'none' %}
+<h3>{{ category.label }}</h3>
+
+<table class="table-hover table-dates">
+  <tbody>{%
+    for item in category.items %}
+    <tr>
+      <th>{% if item.year != prev %}{{ item.year }}{% assign prev = item.year %}{% endif %}</th>
+      <td>
+        {% if item.link %}<a href="{{ item.link }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}<br/>
+        <span class="text-muted">{{ item.cite }}.</span> <!--{% for tag in item.tags %} <span class="label label-default">{{ tag }}</span>{% endfor %}-->
+      </td>
+    </tr>{%
+    endfor %}
+  </tbody>
+</table>
+{% endfor %}
+

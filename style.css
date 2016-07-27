@@ -1,0 +1,31 @@
+div#content h2:first-child {
+  margin-top: 0px;
+}
+
+div#header .text-muted a {
+  color: inherit;
+}
+
+div#header {
+  margin-bottom: 2ex;
+}
+
+table.table-dates th {
+  white-space: nowrap;
+  text-align: right;
+  padding-right: 0.5em;
+}
+
+table.table-dates tr {
+  vertical-align: top;
+}
+
+table.table-dates td {
+  width: 100%;
+  padding-bottom: 1ex;
+}
+
+b {
+  font-weight: normal;
+  border-bottom: 1px dotted #bbbbbb;
+}
