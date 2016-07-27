@@ -28,6 +28,17 @@ title: Announcements
   </tbody>
 </table>
 
+<!-- Courses -->
+<h3>Current Courses</h3>
+
+<ul class="list-unstyled">{%
+for course in site.data.teaching %}{%
+  if course.show %}
+  <li><a href="{{ course.link }}">{{ course.code }} {{ course.name }}</a></li>{%
+  endif %}{%
+endfor %}
+</ul>
+
 <!-- Biography -->
 <h3>Biography</h3>
 
