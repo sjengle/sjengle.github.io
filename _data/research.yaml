@@ -2,7 +2,7 @@
   items:
     - year: 2016
       name: 'Do Defaults Matter? Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots'
-      cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper (to appear), in the <em>Proceedings ofthe 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
+      cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper (to appear), in the <em>Proceedings of the 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
       link: false
       tags: ['datavis']
     - year: 2013

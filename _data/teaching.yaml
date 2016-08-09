@@ -296,7 +296,7 @@
   term: 'Fall'
   year: '2016'
   sort: 'CS212-2016-08a'
-  link: '#'
+  link: 'https://usf-cs212-2016.github.io/'
   show: true
 - id: 'CS 212'
   name: 'Software Development'
@@ -304,5 +304,5 @@
   term: 'Fall'
   year: '2016'
   sort: 'CS212-2016-08b'
-  link: '#'
+  link: 'https://usf-cs212-2016.github.io/'
   show: true
