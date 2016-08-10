@@ -1,0 +1,265 @@
+university:
+  - ref: 'Author'
+    org: 'R Certificate Feasibility Report'
+    loc: 'Masters in Analytics Program'
+    beg: false
+    end: 2012
+    key: '2012A'
+    url: 'https://sites.google.com/a/cs.usfca.edu/r-certification/'
+
+  - ref: 'Participant'
+    org: 'Data Science Undergraduate Program Proposal'
+    loc: 'College of Arts and Sciences'
+    beg: false
+    end: 2012
+    key: '2012B'
+    url: false
+
+  - ref: 'Organizer'
+    org: 'CS Night Game Jam'
+    loc: 'Department of Computer Science'
+    beg: 2012
+    end: 2013
+    key: '2013A'
+    url: 'http://tutoringcenter.cs.usfca.edu/gamejam/'
+
+  - ref: 'Organizer'
+    org: 'Student Data Visualization Contest'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2013
+    key: '2013B'
+    url: 'http://datavis.cs.usfca.edu/contest'
+
+  - ref: 'Co-Author'
+    org: 'MSCS Program Revision Proposal'
+    loc: 'MS in Computer Science Program'
+    beg: 2013
+    end: 2014
+    key: '2014A'
+    url: false
+
+  - ref: 'Faculty Sponsor'
+    org: 'CS Tutoring Center'
+    loc: 'Department of Computer Science'
+    beg: 2013
+    end: 2014
+    key: '2014B'
+    url: 'http://tutoringcenter.cs.usfca.edu/'
+
+  - ref: 'Committee Member'
+    org: 'Tenure-Track Faculty Search'
+    loc: 'Department of Mathematics'
+    beg: 2013
+    end: 2014
+    key: '2014C'
+    url: false
+
+  - ref: 'Open Classroom Host'
+    org: 'Educational Technology Focus'
+    loc: 'Center for Teaching Excellence'
+    beg: false
+    end: 2014
+    key: '2014D'
+    url: 'http://usfcte.net/activities/openclassrooms/hosts/'
+
+  - ref: 'Committee Member'
+    org: 'Term Faculty Search'
+    loc: 'MS in Analytics Program'
+    beg: false
+    end: 2015
+    key: '2015A'
+    url: false
+
+  - ref: 'Participant'
+    org: 'TechConnect Initiative'
+    loc: 'College of Arts and Sciences'
+    beg: false
+    end: 2015
+    key: '2015B'
+    url: false
+
+  - ref: 'Panel Moderator'
+    org: "Steppin' Up in STEM: Women in Technology &amp; Education"
+    loc: 'Career Services Center'
+    beg: false
+    end: 2015
+    key: '2015C'
+    url: false
+
+  - ref: 'Committee Member'
+    org: 'Term Faculty Search'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2015
+    key: '2015D'
+    url: false
+
+  - ref: 'Co-Organizer'
+    org: 'Data Visualization Speaker Series'
+    loc: 'College of Arts and Sciences'
+    beg: 2013
+    end: 2016
+    key: '2016A'
+    url: 'http://vgl.cs.usfca.edu/events/'
+
+  - ref: 'Graduate Advisor'
+    org: 'MS in Computer Science Program'
+    loc: 'College of Arts and Sciences'
+    beg: 2013
+    end: 2016
+    key: '2016B'
+    url: false
+
+  - ref: 'Graduate Director'
+    org: 'MS in Computer Science Program'
+    loc: 'College of Arts and Sciences'
+    beg: 2013
+    end: 2016
+    key: '2016C'
+    url: false
+
+  - ref: 'Committee Member'
+    org: 'Tenure-Track Faculty Search'
+    loc: 'Department of Computer Science'
+    beg: 2015
+    end: 2016
+    key: '2016D'
+    url: false
+
+  - ref: 'Co-Founder'
+    org: 'Visualization and Graphics Lab'
+    loc: 'Department of Computer Science'
+    beg: 2015
+    end: 'Now'
+    key: '2016E'
+    url: 'http://vgl.cs.usfca.edu/'
+
+professional:
+  - ref: 'Program Committee'
+    org: 'Center of Academic Excellence (CAE) Workshop on Insider Threat (WIT)'
+    loc: 'St. Louis, Missouri'
+    beg: false
+    end: 2010-11-14
+    key: '201011'
+    url: false
+
+  - ref: 'Paper Reviewer'
+    org: 'Workshop on Cyber Security Experimentation and Test (CSET)'
+    loc: 'San Francisco, California'
+    beg: 2011-08-08
+    end: 2011-08-12
+    key: '201108'
+    url: 'https://www.usenix.org/legacy/event/cset11/index.html'
+
+  - ref: 'Local Chair'
+    org: 'New Security Paradigms Workshop (NSPW)'
+    loc: 'Marin County, California'
+    beg: 2011-09-12
+    end: 2011-09-15
+    key: '201109'
+    url: 'http://www.nspw.org/2011'
+
+  - ref: 'Program Committee'
+    org: 'International Conference on Computers and Their Applications (CATA)'
+    loc: 'Las Vegas, Nevada'
+    beg: 2012-03-12
+    end: 2012-03-14
+    key: '201203'
+    url: 'http://web.mst.edu/~cata2012/Archive/'
+
+  - ref: 'Poster Chair'
+    org: 'IEEE Symposium on Security and Privacy (IEEE S&amp;P)'
+    loc: 'San Francisco, California'
+    beg: 2013-05-19
+    end: 2013-05-22
+    key: '201305'
+    url: 'http://www.ieee-security.org/TC/SP2013/'
+
+  - ref: 'Publication and Publicity Chair'
+    org: 'Workshop on Visualization for Cyber Security (VizSec)'
+    loc: 'Atlanta, Georgia'
+    beg: false
+    end: 2013-10-14
+    key: '201310'
+    url: 'http://vizsec.org/vizsec2013/'
+
+  - ref: 'Proposal Review Panelist'
+    org: 'NSF Secure and Trustworthy Cyberspace (SaTC)'
+    loc: 'Arlington, Virginia'
+    beg: false
+    end: 2013
+    key: '201312'
+    url: 'https://www.nsf.gov/pubs/2013/nsf13578/nsf13578.htm'
+
+  - ref: 'Poster Chair'
+    org: 'IEEE Symposium on Security and Privacy (IEEE S&amp;P)'
+    loc: 'San Jose, California'
+    beg: 2014-05-18
+    end: 2014-05-21
+    key: '201405'
+    url: 'http://www.ieee-security.org/TC/SP2014/'
+
+  - ref: 'Program Committee, Security/Privacy Track'
+    org: 'Grace Hopper Celebration of Women in Computing (GHC)'
+    loc: 'Phoenix, Arizona'
+    beg: 2014-10-08
+    end: 2014-10-10
+    key: '201410'
+    url: 'http://cdn-ghc.anitaborg.org/wp-content/uploads/sites/2/2014/10/ABI_GHC-2014-Online-Program_Addendum.pdf'
+
+  - ref: 'Program Chair'
+    org: 'Workshop on Visualization for Cyber Security (VizSec)'
+    loc: 'Paris, France'
+    beg: false
+    end: 2014-11-10
+    key: '201411'
+    url: 'http://vizsec.org/vizsec2014/'
+
+  - ref: 'Program Committee'
+    org: 'Cyber and Information Security Research (CISR) Conference'
+    loc: 'Oak Ridge, Tennessee'
+    beg: 2015-04-07
+    end: 2015-04-09
+    key: '201504'
+    url: 'http://www.cisr.ornl.gov/cisrc15/'
+
+  - ref: 'Co-Publication and Poster Chair'
+    org: 'IEEE Symposium on Security and Privacy (IEEE S&amp;P)'
+    loc: 'San Jose, California'
+    beg: 2015-05-18
+    end: 2015-05-20
+    key: '201505'
+    url: 'http://www.ieee-security.org/TC/SP2015/'
+
+  - ref: 'Publication Chair'
+    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+    loc: 'Chicago, Illinois'
+    beg: false
+    end: 2015-10-26
+    key: '201510'
+    url: false
+
+  - ref: 'Short Papers Reviewer'
+    org: 'EG/VGTC Conference on Visualization (EuroVis)'
+    loc: 'Groningen, Netherlands'
+    beg: 2016-06-06
+    end: 2016-06-10
+    key: '201606'
+    url: 'http://www.cs.rug.nl/jbi/eurovis2016/'
+
+  - ref: 'Publication Chair'
+    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+    loc: 'Baltimore, Maryland'
+    beg: false
+    end: 2016-10-24
+    key: '20161024'
+    url: 'http://vizsec.org/'
+
+  - ref: 'Organizing Committee'
+    org: 'Pedagogy of Data Visualization Workshop (PDVW)'
+    loc: 'Baltimore, Maryland'
+    beg: false
+    end: 2016-10-23
+    key: '20161023'
+    url: 'http://vgl.cs.usfca.edu/pdvw/2016/'

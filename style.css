@@ -25,7 +25,17 @@ table.table-dates td {
   padding-bottom: 1ex;
 }
 
+table.compact td {
+  padding-bottom: 0.25ex !important;
+}
+
 b {
   font-weight: normal;
   border-bottom: 1px dotted #bbbbbb;
+}
+
+tr.spacer {
+  height: 1.5ex;
+  font-size: 1.5ex;
+  line-height: 1.5ex;
 }
