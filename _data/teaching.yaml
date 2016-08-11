@@ -223,6 +223,14 @@
   sort: 'CS695-2015-01'
   link: 'https://usfca.instructure.com/courses/1479075/assignments/syllabus'
   show: false
+# SUMMER 2015
+- id: 'CS 695'
+  name: 'Practicum Study'
+  code: 'CS 695-01'
+  term: 'Summer'
+  year: '2015'
+  sort: 'CS695-2015-06'
+  link: 'https://usfca.instructure.com/courses/1555977/assignments/syllabus'
 # FALL 2015
 - id: 'CS 212'
   name: 'Software Development'
