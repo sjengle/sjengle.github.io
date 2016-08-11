@@ -1,8 +1,13 @@
 - label: 'Refereed Publications'
   items:
     - year: 2016
+      name: 'Unboxing Cluster Heatmaps'
+      cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, to appear in the <em>Proceedings of the 6th Symposium on Biological Data Visualization (BioVis)</em>, Baltimore, MD, Oct 2016'
+      link: false
+      tags: ['datavis']
+    - year: 2016
       name: 'Do Defaults Matter? Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots'
-      cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper (to appear), in the <em>Proceedings of the 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
+      cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper, to appear in the <em>Proceedings of the 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
       link: false
       tags: ['datavis']
     - year: 2013
@@ -71,11 +76,11 @@
   items:
     - year: 2016
       name: 'Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique'
-      cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster (to appear), Symposium on Visual Information Communication and Interaction (VINCI), Dallas, TX, September 2016'
+      cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster, to appear in <em>Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, September 2016'
       link: false
       tags: ['datavis']
     - year: 2006
       name: 'Free Your Data! Cenimation: Visualization for Constrained Displays'
-      cite: '<b>Sophie Engle</b>, James Shearer, Michael Ogawa, Steve Haroz, and Kwan-Liu Ma, Creative Winner, IEEE InfoVis Visualization Contest, 2006'
+      cite: '<b>Sophie Engle</b>, James Shearer, Michael Ogawa, Steve Haroz, and Kwan-Liu Ma, Creative Winner, <em>IEEE InfoVis Visualization Contest</em>, 2006'
       link: 'https://sites.google.com/site/jshearer/cenimation'
       tags: ['datavis']
