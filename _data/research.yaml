@@ -8,7 +8,7 @@
     - year: 2016
       name: 'Do Defaults Matter? Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots'
       cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper, to appear in the <em>Proceedings of the 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
-      link: false
+      link: 'http://dx.doi.org/10.1145/2968220.2968241'
       tags: ['datavis']
     - year: 2013
       name: 'Reflecting on Visualization for Cyber Security'
@@ -77,7 +77,7 @@
     - year: 2016
       name: 'Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique'
       cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster, to appear in <em>Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, September 2016'
-      link: false
+      link: 'http://dx.doi.org/10.1145/2968220.2968233'
       tags: ['datavis']
     - year: 2006
       name: 'Free Your Data! Cenimation: Visualization for Constrained Displays'
