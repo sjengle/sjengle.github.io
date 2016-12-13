@@ -263,3 +263,11 @@ professional:
     end: 2016-10-23
     key: '20161023'
     url: 'http://vgl.cs.usfca.edu/pdvw/2016/'
+
+  - ref: 'General Chair'
+    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+    loc: 'Phoenix, Arizona'
+    beg: false
+    end: 2017-10-01
+    key: '20171001'
+    url: 'http://vizsec.org/'
