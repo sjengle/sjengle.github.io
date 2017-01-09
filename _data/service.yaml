@@ -135,6 +135,14 @@ university:
     key: '2016E'
     url: 'http://vgl.cs.usfca.edu/'
 
+  - ref: 'Committee Member'
+    org: 'CS Faculty Search'
+    loc: 'Department of Computer Science'
+    beg: 2016
+    end: 2017
+    key: '2016F'
+    url: false
+
 professional:
   - ref: 'Program Committee'
     org: 'Center of Academic Excellence (CAE) Workshop on Insider Threat (WIT)'
