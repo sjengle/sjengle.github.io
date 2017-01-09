@@ -132,7 +132,7 @@ university:
     loc: 'Department of Computer Science'
     beg: 2015
     end: 'Now'
-    key: '2016E'
+    key: '2016G'
     url: 'http://vgl.cs.usfca.edu/'
 
   - ref: 'Committee Member'
