@@ -305,7 +305,7 @@
   year: '2016'
   sort: 'CS212-2016-08a'
   link: 'https://usf-cs212-2016.github.io/'
-  show: true
+  show: false
 - id: 'CS 212'
   name: 'Software Development'
   code: 'CS 212-02'
@@ -313,4 +313,21 @@
   year: '2016'
   sort: 'CS212-2016-08b'
   link: 'https://usf-cs212-2016.github.io/'
+  show: false
+# SPRING 2017
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-01'
+  term: 'Spring'
+  year: '2017'
+  sort: 'CS212-2017-01a'
+  link: 'https://github.com/usf-cs212-2017/lectures/wiki'
+  show: true
+- id: 'CS 360'
+  name: 'Data Visualization'
+  code: 'CS 360-01'
+  term: 'Spring'
+  year: '2017'
+  sort: 'CS360-2017-01b'
+  link: 'https://github.com/usf-cs360-2017/lectures/wiki'
   show: true
