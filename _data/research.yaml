@@ -1,9 +1,9 @@
 - label: 'Refereed Publications'
   items:
-    - year: 2016
+    - year: 2017
       name: 'Unboxing Cluster Heatmaps'
-      cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, to appear in the <em>Proceedings of the 6th Symposium on Biological Data Visualization (BioVis)</em>, Baltimore, MD, Oct 2016'
-      link: false
+      cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, in <em>BMC Bioinformatics</em>, Volume 18 (Supplement 2):63 (Proceedings of the Symposium on Biological Data Visualization at VIS 2016), February 2017.'
+      link: 'http://dx.doi.org/10.1186/s12859-016-1442-6'
       tags: ['datavis']
     - year: 2016
       name: 'Do Defaults Matter? Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots'
