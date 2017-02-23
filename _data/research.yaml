@@ -2,7 +2,7 @@
   items:
     - year: 2017
       name: 'Unboxing Cluster Heatmaps'
-      cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, in <em>BMC Bioinformatics</em>, Volume 18 (Supplement 2):63 (Proceedings of the Symposium on Biological Data Visualization at VIS 2016), February 2017.'
+      cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, in <em>BMC Bioinformatics</em>, Volume 18 (Supplement 2):63 (Proceedings of the Symposium on Biological Data Visualization at VIS 2016), February 2017'
       link: 'http://dx.doi.org/10.1186/s12859-016-1442-6'
       tags: ['datavis']
     - year: 2016
