@@ -272,6 +272,22 @@ professional:
     key: '20161023'
     url: 'http://vgl.cs.usfca.edu/pdvw/2016/'
 
+  - ref: 'Program Committee (NIER and Tool Tracks)'
+    org: 'IEEE Working Conference on Software Visualization (VISSOFT 2017)'
+    loc: 'Shanghai, China'
+    beg: 2017-09-18
+    end: 2017-09-19
+    key: '20170918'
+    url: 'http://vissoft17.dcc.uchile.cl/'
+
+  - ref: 'Organizing Committee'
+    org: 'Pedagogy of Data Visualization Workshop (PDVW)'
+    loc: 'Phoenix, Arizona'
+    beg: false
+    end: 2017-10-01
+    key: '20171001'
+    url: 'http://vgl.cs.usfca.edu/pdvw/2017/'
+
   - ref: 'General Chair'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
     loc: 'Phoenix, Arizona'
