@@ -5,6 +5,16 @@
       cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, in <em>BMC Bioinformatics</em>, Volume 18 (Supplement 2):63 (Proceedings of the Symposium on Biological Data Visualization at VIS 2016), February 2017'
       link: 'http://dx.doi.org/10.1186/s12859-016-1442-6'
       tags: ['datavis']
+      more:
+        - icon: 'fa-file-pdf-o'
+          link: 'https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-016-1442-6'
+          name: 'Paper'
+        - icon: 'fa-file-powerpoint-o'
+          link: 'pdf/2017 Unboxing Cluster Heatmaps (Slides).pdf'
+          name: 'Slides'
+        - icon: 'fa-github'
+          link: 'https://github.com/usfvgl/unboxing-cluster-heatmaps'
+          name: 'Repository'
     - year: 2016
       name: 'Do Defaults Matter? Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots'
       cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper, in the <em>Proceedings of the 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
@@ -15,6 +25,13 @@
       cite: 'Carrie Gates and Sophie Engle, in the <em>Proceedings of the 2013 IEEE International Conference on Intelligence and Security Informatics (ISI)</em>, from the <em>Evaluating Security Visualizations Workshop</em>, Seattle, Washington, p275–277, June 2013'
       link: 'http://dx.doi.org/10.1109/ISI.2013.6578842'
       tags: ['security', 'datavis']
+      more:
+        - icon: 'fa-file-pdf-o'
+          link: 'pdf/2013 Reflecting on Visualization for Cyber Security (Paper).pdf'
+          name: 'Paper'
+        - icon: 'fa-file-powerpoint-o'
+          link: 'pdf/2013 Reflecting on Visualization for Cyber Security (Slides).pdf'
+          name: 'Slides'
     - year: 2013
       name: 'Expert Code Review and Mastery Learning in a Software Development Course'
       cite: '<b>Sophie Engle</b> and Sami Rollins, in the <em>Journal of Computing Sciences in Colleges</em>, Volume 28, Number 4, p139–147, April 2013'
@@ -79,6 +96,16 @@
       cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster, in the <em>Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, September 2016 <strong>(Best Poster Award)</strong>'
       link: 'http://dx.doi.org/10.1145/2968220.2968233'
       tags: ['datavis']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Abstract'
+          link: 'pdf/2016 Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique (Abstract).pdf'
+        - icon: 'fa-file-image-o'
+          link: 'http://vgl.cs.usfca.edu/papers/2016-vinci-poster.pdf'
+          name: 'Poster'
+        - icon: 'fa-external-link'
+          link: 'http://cs690.github.io/spring2015-datavis/visualization.html'
+          name: 'Website'
     - year: 2006
       name: 'Free Your Data! Cenimation: Visualization for Constrained Displays'
       cite: '<b>Sophie Engle</b>, James Shearer, Michael Ogawa, Steve Haroz, and Kwan-Liu Ma, Creative Winner, <em>IEEE InfoVis Visualization Contest</em>, 2006'
