@@ -21,9 +21,9 @@
       link: 'http://dx.doi.org/10.1145/2968220.2968241'
       tags: ['datavis']
       more:
-        # - icon: 'fa-file-pdf-o'
-        #   link: 'pdf/2016 Do Defaults Matter.pdf'
-        #   name: 'Paper'
+        - icon: 'fa-file-pdf-o'
+          link: 'http://dl.acm.org/authorize?N32499'
+          name: 'Paper'
     - year: 2013
       name: 'Reflecting on Visualization for Cyber Security'
       cite: 'Carrie Gates and Sophie Engle, in the <em>Proceedings of the 2013 IEEE International Conference on Intelligence and Security Informatics (ISI)</em>, from the <em>Evaluating Security Visualizations Workshop</em>, Seattle, Washington, p275–277, June 2013'
