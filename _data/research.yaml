@@ -54,6 +54,9 @@
       link: 'http://dx.doi.org/10.1145/2379690.2379698'
       tags: ['security', 'datavis']
       more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Paper'
+          link: 'http://dl.acm.org/authorize?N32491'
         - icon: 'fa-file-powerpoint-o'
           name: 'Slides'
           link: 'pdf/2012 Visualizing Distributed Memory Computations with Hive Plots (Slides).pdf'
@@ -102,6 +105,9 @@
       link: 'http://doi.acm.org/10.1145/1595676.1595678'
       tags: ['security']
       more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Paper'
+          link: 'http://dl.acm.org/authorize?N32492'
         - icon: 'fa-file-powerpoint-o'
           name: 'Slides'
           link: 'pdf/2008 We Have Met the Enemy and He is Us (Slides).pdf'
@@ -160,9 +166,9 @@
       link: 'http://dx.doi.org/10.1145/2968220.2968233'
       tags: ['datavis']
       more:
-        # - icon: 'fa-file-pdf-o'
-        #   name: 'Abstract'
-        #   link: 'pdf/2016 Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique (Abstract).pdf'
+        - icon: 'fa-file-pdf-o'
+          name: 'Abstract'
+          link: 'http://dl.acm.org/authorize?N32490'
         - icon: 'fa-file-image-o'
           link: 'http://vgl.cs.usfca.edu/papers/2016-vinci-poster.pdf'
           name: 'Poster'
