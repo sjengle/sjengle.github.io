@@ -2,7 +2,7 @@
   items:
     - year: 2017
       name: 'Unboxing Cluster Heatmaps'
-      cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, in <em>BMC Bioinformatics</em>, Volume 18 (Supplement 2):63 (Proceedings of the Symposium on Biological Data Visualization at VIS 2016), February 2017'
+      cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, in <em>BMC Bioinformatics</em>, Volume 18 (Supplement 2):63 (Proceedings of the <a href="http://biovis.net/2016/ieeevis/">Symposium on Biological Data Visualization at VIS 2016</a>), February 2017'
       link: 'http://dx.doi.org/10.1186/s12859-016-1442-6'
       tags: ['datavis']
       more:
@@ -17,9 +17,13 @@
           name: 'Repository'
     - year: 2016
       name: 'Do Defaults Matter? Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots'
-      cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper, in the <em>Proceedings of the 9th Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, Sep 2016'
+      cite: 'Casey Haber, Lyndon Ong Yiu, Alark Joshi and <b>Sophie Engle</b>, Short Paper, in the <em>Proceedings of the <a href="http://vinci-conf.org/2016/">9th International Symposium on Visual Information Communication and Interaction (VINCI)</a></em>, Dallas, TX, Sep 2016'
       link: 'http://dx.doi.org/10.1145/2968220.2968241'
       tags: ['datavis']
+      more:
+        # - icon: 'fa-file-pdf-o'
+        #   link: 'pdf/2016 Do Defaults Matter.pdf'
+        #   name: 'Paper'
     - year: 2013
       name: 'Reflecting on Visualization for Cyber Security'
       cite: 'Carrie Gates and Sophie Engle, in the <em>Proceedings of the 2013 IEEE International Conference on Intelligence and Security Informatics (ISI)</em>, from the <em>Evaluating Security Visualizations Workshop</em>, Seattle, Washington, p275–277, June 2013'
@@ -27,51 +31,92 @@
       tags: ['security', 'datavis']
       more:
         - icon: 'fa-file-pdf-o'
-          link: 'pdf/2013 Reflecting on Visualization for Cyber Security (Paper).pdf'
-          name: 'Paper'
+          link: 'pdf/2013 Reflecting on Visualization for Cyber Security (Preprint).pdf'
+          name: 'Preprint'
         - icon: 'fa-file-powerpoint-o'
           link: 'pdf/2013 Reflecting on Visualization for Cyber Security (Slides).pdf'
           name: 'Slides'
     - year: 2013
       name: 'Expert Code Review and Mastery Learning in a Software Development Course'
-      cite: '<b>Sophie Engle</b> and Sami Rollins, in the <em>Journal of Computing Sciences in Colleges</em>, Volume 28, Number 4, p139–147, April 2013'
+      cite: '<b>Sophie Engle</b> and Sami Rollins, in the <em>Journal of Computing Sciences in Colleges</em>, Volume 28, Number 4, p139–147, April 2013 (Presented at the <a href="http://www.ccsc.org/southwestern/2013/index.php">6th CCSC South Western Region Conference</a>)'
       link: 'http://dl.acm.org/citation.cfm?id=2458539.2458564'
       tags: ['education']
+      more:
+        - icon: 'fa-file-pdf-o'
+          link: 'pdf/2013 Expert Code Review and Mastery Learning in a Software Development Course (Preprint).pdf'
+          name: 'Preprint'
+        - icon: 'fa-file-powerpoint-o'
+          link: 'pdf/2013 Expert Code Review and Mastery Learning in a Software Development Course (Slides).pdf'
+          name: 'Slides'
     - year: 2012
       name: 'Visualizing Distributed Memory Computations with Hive Plots'
-      cite: '<b>Sophie Engle</b> and Sean Whalen, in the <em>Proceedings of the Ninth International Symposium on Visualization for Cyber Security (VizSec)</em>, Seattle, Washington, p56–63, October 2012'
+      cite: '<b>Sophie Engle</b> and Sean Whalen, in the <em>Proceedings of the <a href="http://vizsec.org/vizsec2012/">Ninth International Symposium on Visualization for Cyber Security (VizSec)</a></em>, Seattle, Washington, p56–63, October 2012'
       link: 'http://dx.doi.org/10.1145/2379690.2379698'
       tags: ['security', 'datavis']
+      more:
+        - icon: 'fa-file-powerpoint-o'
+          name: 'Slides'
+          link: 'pdf/2012 Visualizing Distributed Memory Computations with Hive Plots (Slides).pdf'
     - year: 2012
       name: 'A Taxonomy of Buffer Overflow Characteristics'
       cite: 'Matt Bishop, <b>Sophie Engle</b>, Damien Howard, and Sean Whalen, in the <em>IEEE Transactions on Dependable and Secure Computing (TDSC)</em>, Volume 9, Issue 3, p305–317, June 2012'
       link: 'http://dx.doi.org/10.1109/TDSC.2012.10'
       tags: ['security']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Preprint'
+          link: 'http://nob.cs.ucdavis.edu/bishop/papers/2012-ieeetdsc/bufov.pdf'
     - year: 2012
       name: 'Network-Theoretic Classification of Parallel Computation Patterns'
       cite: 'Sean Whalen, <b>Sophie Engle</b>, Sean Peisert, and Matt Bishop, in the <em>International Journal of High Performance Computing Applications (IJHPCA)</em>, Volume 26, Number 2, p159–169, May 2012'
       link: 'http://dx.doi.org/10.1177/1094342012436618'
       tags: ['security']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Preprint'
+          link: 'http://www.cs.ucdavis.edu/~peisert/research/2012-IJHPCA-Fingerprinting.pdf'
     - year: 2010
       name: 'Modeling and Analyzing Faults to Improve Election Process Robustness'
-      cite: 'Borislava I. Simidchieva, <b>Sophie Engle</b>, Michael Clifford, Alicia Clay Jones, Sean Peisert, Matt Bishop, Lori A. Clarke, and Leon J. Osterweil, in the <em>Proceedings of the USENIX Electronic Voting Technology Workshop/Workshop on Trustworthy Elections (EVT/WOTE)</em>, June 2010'
+      cite: 'Borislava I. Simidchieva, <b>Sophie Engle</b>, Michael Clifford, Alicia Clay Jones, Sean Peisert, Matt Bishop, Lori A. Clarke, and Leon J. Osterweil, in the <em>Proceedings of the <a href="https://www.usenix.org/legacy/events/evtwote10/">USENIX Electronic Voting Technology Workshop/Workshop on Trustworthy Elections (EVT/WOTE)</a></em>, June 2010'
       link: 'http://dl.acm.org/citation.cfm?id=1924892.1924898'
       tags: ['security']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Paper'
+          link: 'https://www.usenix.org/legacy/events/evtwote10/tech/full_papers/Simidchieva.pdf'
+        - icon: 'fa-file-movie-o'
+          name: 'Video'
+          link: 'https://www.usenix.org/conference/evtwote-10/modeling-and-analyzing-faults-improve-election-process-robustness'
     - year: 2009
       name: 'Case Studies of an Insider Framework'
       cite: 'Matt Bishop, <b>Sophie Engle</b>, Sean Peisert, Sean Whalen, and Carrie Gates, in the <em>Proceedings of the 42nd Hawaii International Conference on System Sciences (HICSS)</em>, p1–10, 2009'
       link: 'http://doi.ieeecomputersociety.org/10.1109/HICSS.2009.617'
       tags: ['security']
+      more:
+        - icon: 'fa-file-pdf-o'
+          link: 'http://web.cs.ucdavis.edu/~peisert/research/2009-BEGPW-HICSS-Insider.pdf'
+          name: 'Preprint'
     - year: 2008
       name: 'We Have Met the Enemy and He is Us'
       cite: 'Matt Bishop, <b>Sophie Engle</b>, Sean Peisert, Sean Whalen, and Carrie Gates, in the <em>Proceedings of the 2008 New Security Paradigms Workshop (NSPW)</em>, p1–12, September 2008'
       link: 'http://doi.acm.org/10.1145/1595676.1595678'
       tags: ['security']
+      more:
+        - icon: 'fa-file-powerpoint-o'
+          name: 'Slides'
+          link: 'pdf/2008 We Have Met the Enemy and He is Us (Slides).pdf'
     - year: 2006
       name: 'The Software Assurance CBK and University Curricula'
-      cite: 'Matt Bishop and <b>Sophie Engle</b>, in the <em>Proceedings from the Tenth Colloquium on Information Systems Security Education (CISSE)</em>, p14&ndash;21, June 2006'
+      cite: 'Matt Bishop and <b>Sophie Engle</b>, in the <em>Proceedings from the <a href="https://cisse.info/resources/archives/category/5-2006">Tenth Colloquium on Information Systems Security Education (CISSE)</a></em>, p14&ndash;21, June 2006'
       link: 'http://cisse.info/resources/archives/category/6-papers?download=46:s01p03-2006'
       tags: ['security', 'education']
+      more:
+        - icon: 'fa-file-pdf-o'
+          link: 'http://cisse.info/resources/archives/category/6-papers?download=46:s01p03-2006'
+          name: 'Paper'
+        - icon: 'fa-file-powerpoint-o'
+          link: 'http://nob.cs.ucdavis.edu/bishop/talks/2006-cisse-1/swacbk.pdf'
+          name: 'Slides'
 - label: 'Unrefereed Publications and Reports'
   items:
     - year: 2010
@@ -79,27 +124,45 @@
       cite: 'Matt Bishop, <b>Sophie Engle</b>, Deborah A. Frincke, Carrie Gates, Frank L. Greitzer, Sean Peisert, and Sean Whalen, in <em>Insider Threats in Cyber Security</em>,  Advances in Information Security, Volume 49, p115&ndash;137, Springer, 2010'
       link: 'http://dx.doi.org/10.1007/978-1-4419-7133-3_6'
       tags: ['security']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Preprint'
+          link: 'http://www.cs.ucdavis.edu/~peisert/research/insiderthreat-chapter-final-prepress.pdf'
     - year: 2010
       name: 'A Policy-Based Vulnerability Analysis Framework'
       cite: '<b>Sophie Engle</b>, Ph.D. Dissertation, Technical Report CSE-2010-06, Department of Computer Science, University of California, Davis, March 2010'
       link: 'http://dl.acm.org/citation.cfm?id=2019781'
       tags: ['security']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Dissertation'
+          link: 'pdf/2010 A Policy-Based Vulnerability Analysis Framework.pdf'
+        - icon: 'fa-file-powerpoint-o'
+          name: 'Exit Seminar'
+          link: 'pdf/2010 A Policy-Based Vulnerability Analysis Framework (Exit Seminar).pdf'
     - year: 2007
       name: 'Source Code Review of the Sequoia Voting System'
       cite: "Matt Blaze, Arel Cordero, <b>Sophie Engle</b>, Chris Karlof, Naveen Sastry, Micah Sherr, Till Stegers, and Ka-Ping Yee, Official Report Prepared for <em>California Secretary of State's Top-to-Bottom Review of California Voting Systems</em>, June 2007"
       link: 'http://www.sos.ca.gov/elections/voting-systems/oversight/top-bottom-review/'
       tags: ['security']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Report'
+          link: 'http://votingsystems.cdn.sos.ca.gov/oversight/ttbr/sequoia-source-public-jul26.pdf'
+        - icon: 'fa-external-link'
+          name: 'Website'
+          link: 'http://www.sos.ca.gov/elections/voting-systems/oversight/top-bottom-review/'
 - label: 'Posters and Contests'
   items:
     - year: 2016
       name: 'Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique'
-      cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster, in the <em>Symposium on Visual Information Communication and Interaction (VINCI)</em>, Dallas, TX, September 2016 <strong>(Best Poster Award)</strong>'
+      cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster, in the <em><a href="http://vinci-conf.org/2016/">9th International Symposium on Visual Information Communication and Interaction (VINCI)</a></em>, Dallas, TX, September 2016 <strong>(Best Poster Award)</strong>'
       link: 'http://dx.doi.org/10.1145/2968220.2968233'
       tags: ['datavis']
       more:
-        - icon: 'fa-file-pdf-o'
-          name: 'Abstract'
-          link: 'pdf/2016 Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique (Abstract).pdf'
+        # - icon: 'fa-file-pdf-o'
+        #   name: 'Abstract'
+        #   link: 'pdf/2016 Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique (Abstract).pdf'
         - icon: 'fa-file-image-o'
           link: 'http://vgl.cs.usfca.edu/papers/2016-vinci-poster.pdf'
           name: 'Poster'
@@ -108,6 +171,19 @@
           name: 'Website'
     - year: 2006
       name: 'Free Your Data! Cenimation: Visualization for Constrained Displays'
-      cite: '<b>Sophie Engle</b>, James Shearer, Michael Ogawa, Steve Haroz, and Kwan-Liu Ma, Creative Winner, <em>IEEE InfoVis Visualization Contest</em>, 2006'
+      cite: '<b>Sophie Engle</b>, James Shearer, Michael Ogawa, Steve Haroz, and Kwan-Liu Ma, Creative Winner, <em><a href="http://conferences.computer.org/infovis/infovis2006/contest_c.html">IEEE InfoVis Visualization Contest</a></em>, 2006'
       link: 'https://sites.google.com/site/jshearer/cenimation'
       tags: ['datavis']
+      more:
+        - icon: 'fa-file-pdf-o'
+          name: 'Abstract'
+          link: 'https://www.cs.umd.edu/hcil/InfovisRepository/contest-2006/files/Engle.pdf'
+        - icon: 'fa-file-movie-o'
+          name: 'Movie'
+          link: 'http://vis.cs.ucdavis.edu/cenimation/cenimation.wmv'
+        - icon: 'fa-file-movie-o'
+          name: 'Movie'
+          link: 'http://vis.cs.ucdavis.edu/cenimation/cenimation.mov'
+        - icon: 'fa-external-link'
+          name: 'Website'
+          link: 'https://sites.google.com/site/jshearer/cenimation'
