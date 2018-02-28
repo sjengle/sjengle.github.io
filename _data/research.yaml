@@ -1,5 +1,24 @@
 - label: 'Refereed Publications'
   items:
+    - year: 2018
+      name: 'Using Animation to Alleviate Overdraw in Multiclass Scatterplot Matrices'
+      cite: 'Helen Chen, <b>Sophie Engle</b>, Alark Joshi, Eric D. Ragan, Beste Filiz Yuksel, and Lane Harrison, in <em><a href="https://chi2018.acm.org/">Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018)</a></em>, ACM, New York, NY, USA, April 2018'
+      link: 'http://vgl.cs.usfca.edu/animated-sploms/'
+      tags: ['datavis']
+      more:
+        - icon: 'fa-home'
+          link: 'http://vgl.cs.usfca.edu/animated-sploms/'
+          name: 'Project Website'
+        - icon: 'fa-github'
+          link: 'https://github.com/usfvgl/animated-sploms'
+          name: 'Website Repository'
+        - icon: 'fa-github'
+          link: 'https://github.com/usfvgl/splom-studies'
+          name: 'User Study Repository'
+        - icon: 'fa-file-movie-o'
+          name: 'Demo Video'
+          link: 'https://goo.gl/RddgwR'
+
     - year: 2017
       name: 'Unboxing Cluster Heatmaps'
       cite: '<b>Sophie Engle</b>, Sean Whalen, Alark Joshi, and Katherine S. Pollard, in <em>BMC Bioinformatics</em>, Volume 18 (Supplement 2):63 (Proceedings of the <a href="http://biovis.net/2016/ieeevis/">Symposium on Biological Data Visualization at VIS 2016</a>), February 2017'

@@ -143,6 +143,14 @@ university:
     key: '2016F'
     url: false
 
+  - ref: 'Application Committee and Mentor'
+    org: 'Clare Booth Luce Scholarship'
+    loc: 'College of Arts and Sciences'
+    beg: false
+    end: 2018
+    key: '2018A'
+    url: false
+
 professional:
   - ref: 'Program Committee'
     org: 'Center of Academic Excellence (CAE) Workshop on Insider Threat (WIT)'
@@ -288,10 +296,26 @@ professional:
     key: '20171001'
     url: 'http://vgl.cs.usfca.edu/pdvw/2017/'
 
-  - ref: 'General Chair'
-    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+  - ref: 'Papers Reviewer'
+    org: 'IEEE Information Visualization (InfoVis)'
     loc: 'Phoenix, Arizona'
     beg: false
     end: 2017-10-01
     key: '20171001'
-    url: 'http://vizsec.org/'
+    url: 'http://ieeevis.org/year/2017/welcome'
+
+  - ref: 'General Chair'
+    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+    loc: 'Phoenix, Arizona'
+    beg: false
+    end: 2017-10-02
+    key: '20171002'
+    url: 'http://vizsec.org/vizsec2017/'
+
+  - ref: 'Chair at Large'
+    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+    loc: 'Berlin, Germany'
+    beg: false
+    end: 2018-10-22
+    key: '20181022'
+    url: 'http://vizsec.org/vizsec2018/'

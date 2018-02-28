@@ -5,7 +5,7 @@ title: Service
 
 <h3>Service to University</h3>{%
   assign prev = 'none' %}{%
-  assign items = site.data.service.university | sort: 'key'% | reverse %}
+  assign items = site.data.service.university | sort: 'key' | reverse %}
 
 <table class="table-hover table-dates compact">
   <tbody>{% for item in items %}
@@ -30,7 +30,7 @@ title: Service
 
 <h3>Service to Profession</h3>{%
   assign prev = 'none' %}{%
-  assign items = site.data.service.professional | sort: 'key'% | reverse %}
+  assign items = site.data.service.professional | sort: 'key' | reverse %}
 
 <table class="table-hover table-dates compact">
   <tbody>{% for item in items %}{%
@@ -44,4 +44,3 @@ title: Service
     </tr>{% endfor %}
   </tbody>
 </table>
-
