@@ -107,7 +107,7 @@
   term: 'Fall'
   year: '2012'
   sort: 'MSAN501-2012-08'
-  link: 'http://msan501.cs.usfca.edu/'
+  link: 'https://sites.google.com/a/cs.usfca.edu/msan501/'
 # SPRING 2013
 - id: 'CS 212'
   name: 'Software Development'
@@ -179,7 +179,7 @@
   code: 'MSAN 622-01'
   term: 'Spring'
   year: '2014'
-  link: 'http://msan622.github.io/'
+  link: 'http://msan622.github.io/spring2014/'
   sort: 'MSAN622-2014-01'
 # SUMMER 2014
 - id: 'CS 695'
@@ -246,7 +246,7 @@
   term: 'Fall'
   year: '2015'
   sort: 'CS384-2015-08'
-  link: 'http://researchseminar.cs.usfca.edu/fall2015/'
+  link: 'http://cs694.github.io/fall2015/'
   show: false
 - id: 'CS 694'
   name: 'Research Seminar in Computer Science'
@@ -254,7 +254,7 @@
   term: 'Fall'
   year: '2015'
   sort: 'CS694-2015-08'
-  link: 'http://researchseminar.cs.usfca.edu/fall2015/'
+  link: 'http://cs694.github.io/fall2015/'
   show: false
 - id: 'CS 695'
   name: 'Practicum Study'
@@ -271,7 +271,7 @@
   term: 'Spring'
   year: '2016'
   sort: 'CS360-2016-01'
-  link: 'http://cs360.cs.usfca.edu/spring2016/'
+  link: 'http://usf-cs360.github.io/spring2016/'
   show: false
 - id: 'CS 384'
   name: 'Research Seminar in Computer Science'
@@ -279,7 +279,7 @@
   term: 'Spring'
   year: '2016'
   sort: 'CS384-2016-01'
-  link: 'http://researchseminar.cs.usfca.edu/spring2016/'
+  link: 'http://cs694.github.io/spring2016/'
   show: false
 - id: 'CS 694'
   name: 'Research Seminar in Computer Science'
@@ -287,7 +287,7 @@
   term: 'Spring'
   year: '2016'
   sort: 'CS694-2016-01'
-  link: 'http://researchseminar.cs.usfca.edu/spring2016/'
+  link: 'http://cs694.github.io/spring2016/'
   show: false
 - id: 'CS 695'
   name: 'Practicum Study'
