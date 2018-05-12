@@ -14,7 +14,7 @@ title: Research
       <th>{% if item.year != prev %}{{ item.year }}{% assign prev = item.year %}{% endif %}</th>
       <td>
         {% if item.link %}<a href="{{ item.link }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}<br/>
-        <span class="text-muted">{{ item.cite }}.</span>{% if item.more %}{% for more in item.more %}&nbsp;<a href="{{ more.link }}" title="{{ more.name }}"><i class="fa {{ more.icon }}"></i></a>{%endfor %}{% endif %} <!--{% for tag in item.tags %} <span class="label label-default">{{ tag }}</span>{% endfor %}-->
+        <span class="text-muted">{{ item.cite }}.</span>{% if item.more %}{% for more in item.more %}&nbsp;<a href="{{ more.link }}" title="{{ more.name }}"><i class="{{ more.icon }}"></i></a>{%endfor %}{% endif %} <!--{% for tag in item.tags %} <span class="label label-default">{{ tag }}</span>{% endfor %}-->
       </td>
     </tr>{%
     endfor %}

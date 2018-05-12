@@ -6,16 +6,16 @@
       link: 'http://vgl.cs.usfca.edu/animated-sploms/'
       tags: ['datavis']
       more:
-        - icon: 'fa-home'
+        - icon: 'far fa-external-link-square'
           link: 'http://vgl.cs.usfca.edu/animated-sploms/'
           name: 'Project Website'
-        - icon: 'fa-github'
+        - icon: 'fab fa-github'
           link: 'https://github.com/usfvgl/animated-sploms'
           name: 'Website Repository'
-        - icon: 'fa-github'
+        - icon: 'fab fa-github'
           link: 'https://github.com/usfvgl/splom-studies'
           name: 'User Study Repository'
-        - icon: 'fa-file-movie-o'
+        - icon: 'far fa-file-video'
           name: 'Demo Video'
           link: 'https://goo.gl/RddgwR'
 
@@ -25,13 +25,13 @@
       link: 'http://dx.doi.org/10.1186/s12859-016-1442-6'
       tags: ['datavis']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           link: 'https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-016-1442-6'
           name: 'Paper'
-        - icon: 'fa-file-powerpoint-o'
+        - icon: 'far fa-file-powerpoint'
           link: 'pdf/2017 Unboxing Cluster Heatmaps (Slides).pdf'
           name: 'Slides'
-        - icon: 'fa-github'
+        - icon: 'far fa-github'
           link: 'https://github.com/usfvgl/unboxing-cluster-heatmaps'
           name: 'Repository'
     - year: 2016
@@ -40,7 +40,7 @@
       link: 'http://dx.doi.org/10.1145/2968220.2968241'
       tags: ['datavis']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           link: 'http://dl.acm.org/authorize?N32499'
           name: 'Paper'
     - year: 2013
@@ -49,10 +49,10 @@
       link: 'http://dx.doi.org/10.1109/ISI.2013.6578842'
       tags: ['security', 'datavis']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           link: 'pdf/2013 Reflecting on Visualization for Cyber Security (Preprint).pdf'
           name: 'Preprint'
-        - icon: 'fa-file-powerpoint-o'
+        - icon: 'far fa-file-powerpoint'
           link: 'pdf/2013 Reflecting on Visualization for Cyber Security (Slides).pdf'
           name: 'Slides'
     - year: 2013
@@ -61,10 +61,10 @@
       link: 'http://dl.acm.org/citation.cfm?id=2458539.2458564'
       tags: ['education']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           link: 'pdf/2013 Expert Code Review and Mastery Learning in a Software Development Course (Preprint).pdf'
           name: 'Preprint'
-        - icon: 'fa-file-powerpoint-o'
+        - icon: 'far fa-file-powerpoint'
           link: 'pdf/2013 Expert Code Review and Mastery Learning in a Software Development Course (Slides).pdf'
           name: 'Slides'
     - year: 2012
@@ -73,10 +73,10 @@
       link: 'http://dx.doi.org/10.1145/2379690.2379698'
       tags: ['security', 'datavis']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Paper'
           link: 'http://dl.acm.org/authorize?N32491'
-        - icon: 'fa-file-powerpoint-o'
+        - icon: 'far fa-file-powerpoint'
           name: 'Slides'
           link: 'pdf/2012 Visualizing Distributed Memory Computations with Hive Plots (Slides).pdf'
     - year: 2012
@@ -85,7 +85,7 @@
       link: 'http://dx.doi.org/10.1109/TDSC.2012.10'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Preprint'
           link: 'http://nob.cs.ucdavis.edu/bishop/papers/2012-ieeetdsc/bufov.pdf'
     - year: 2012
@@ -94,7 +94,7 @@
       link: 'http://dx.doi.org/10.1177/1094342012436618'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Preprint'
           link: 'http://www.cs.ucdavis.edu/~peisert/research/2012-IJHPCA-Fingerprinting.pdf'
     - year: 2010
@@ -103,10 +103,10 @@
       link: 'http://dl.acm.org/citation.cfm?id=1924892.1924898'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Paper'
           link: 'https://www.usenix.org/legacy/events/evtwote10/tech/full_papers/Simidchieva.pdf'
-        - icon: 'fa-file-movie-o'
+        - icon: 'far fa-file-video'
           name: 'Video'
           link: 'https://www.usenix.org/conference/evtwote-10/modeling-and-analyzing-faults-improve-election-process-robustness'
     - year: 2009
@@ -115,7 +115,7 @@
       link: 'http://doi.ieeecomputersociety.org/10.1109/HICSS.2009.617'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           link: 'http://web.cs.ucdavis.edu/~peisert/research/2009-BEGPW-HICSS-Insider.pdf'
           name: 'Preprint'
     - year: 2008
@@ -124,10 +124,10 @@
       link: 'http://doi.acm.org/10.1145/1595676.1595678'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Paper'
           link: 'http://dl.acm.org/authorize?N32492'
-        - icon: 'fa-file-powerpoint-o'
+        - icon: 'far fa-file-powerpoint'
           name: 'Slides'
           link: 'pdf/2008 We Have Met the Enemy and He is Us (Slides).pdf'
     - year: 2006
@@ -136,10 +136,10 @@
       link: 'http://cisse.info/resources/archives/category/6-papers?download=46:s01p03-2006'
       tags: ['security', 'education']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           link: 'http://cisse.info/resources/archives/category/6-papers?download=46:s01p03-2006'
           name: 'Paper'
-        - icon: 'fa-file-powerpoint-o'
+        - icon: 'far fa-file-powerpoint'
           link: 'http://nob.cs.ucdavis.edu/bishop/talks/2006-cisse-1/swacbk.pdf'
           name: 'Slides'
 - label: 'Unrefereed Publications and Reports'
@@ -150,7 +150,7 @@
       link: 'http://dx.doi.org/10.1007/978-1-4419-7133-3_6'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Preprint'
           link: 'http://www.cs.ucdavis.edu/~peisert/research/insiderthreat-chapter-final-prepress.pdf'
     - year: 2010
@@ -159,10 +159,10 @@
       link: 'http://dl.acm.org/citation.cfm?id=2019781'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Dissertation'
           link: 'pdf/2010 A Policy-Based Vulnerability Analysis Framework.pdf'
-        - icon: 'fa-file-powerpoint-o'
+        - icon: 'far fa-file-powerpoint'
           name: 'Exit Seminar'
           link: 'pdf/2010 A Policy-Based Vulnerability Analysis Framework (Exit Seminar).pdf'
     - year: 2007
@@ -171,10 +171,10 @@
       link: 'http://www.sos.ca.gov/elections/voting-systems/oversight/top-bottom-review/'
       tags: ['security']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Report'
           link: 'http://votingsystems.cdn.sos.ca.gov/oversight/ttbr/sequoia-source-public-jul26.pdf'
-        - icon: 'fa-external-link'
+        - icon: 'far fa-external-link-square'
           name: 'Website'
           link: 'http://www.sos.ca.gov/elections/voting-systems/oversight/top-bottom-review/'
 - label: 'Posters and Contests'
@@ -185,13 +185,13 @@
       link: 'http://dx.doi.org/10.1145/2968220.2968233'
       tags: ['datavis']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Abstract'
           link: 'http://dl.acm.org/authorize?N32490'
-        - icon: 'fa-file-image-o'
+        - icon: 'far fa-file-image'
           link: 'http://vgl.cs.usfca.edu/papers/2016-vinci-poster.pdf'
           name: 'Poster'
-        - icon: 'fa-external-link'
+        - icon: 'far fa-external-link-square'
           link: 'http://cs690.github.io/spring2015-datavis/visualization.html'
           name: 'Website'
     - year: 2006
@@ -200,15 +200,15 @@
       link: 'https://sites.google.com/site/jshearer/cenimation'
       tags: ['datavis']
       more:
-        - icon: 'fa-file-pdf-o'
+        - icon: 'far fa-file-pdf'
           name: 'Abstract'
           link: 'https://www.cs.umd.edu/hcil/InfovisRepository/contest-2006/files/Engle.pdf'
-        - icon: 'fa-file-movie-o'
+        - icon: 'far fa-file-video'
           name: 'Movie'
           link: 'http://vis.cs.ucdavis.edu/cenimation/cenimation.wmv'
-        - icon: 'fa-file-movie-o'
+        - icon: 'far fa-file-video'
           name: 'Movie'
           link: 'http://vis.cs.ucdavis.edu/cenimation/cenimation.mov'
-        - icon: 'fa-external-link'
+        - icon: 'far fa-external-link-square'
           name: 'Website'
           link: 'https://sites.google.com/site/jshearer/cenimation'
