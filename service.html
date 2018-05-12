@@ -44,3 +44,20 @@ title: Service
     </tr>{% endfor %}
   </tbody>
 </table>
+
+<h3>Service to Community</h3>{%
+  assign prev = 'none' %}{%
+  assign items = site.data.service.community | sort: 'key' | reverse %}
+
+<table class="table-hover table-dates compact">
+  <tbody>{% for item in items %}{%
+      capture curr %}{{ item.end | date: "%Y" }}{% endcapture %}{%
+        if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif %}
+    <tr>
+      <th>{% if curr != prev %}{{ curr }}{% assign prev = curr %}{% endif %}</th>
+      <td>
+      {{ item.ref }}, <span class="text-muted">{% if item.url %}<a href="{{ item.url }}" class="text-muted"><b>{{ item.org }}</b></a>{% else %}{{ item.org }}{% endif %}, {% if item.loc %}{{ item.loc }}, {% endif %}{% if item.beg %}{{ item.beg | date: "%b %Y"}} &ndash; {% endif %}{% if item.end < 3000 %}{{ item.end }}{% else %}{{ item.end | date: "%b %Y" }}{% endif %}.</span>
+      </td>
+    </tr>{% endfor %}
+  </tbody>
+</table>

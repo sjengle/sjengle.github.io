@@ -319,3 +319,12 @@ professional:
     end: 2018-10-22
     key: '20181022'
     url: 'http://vizsec.org/vizsec2018/'
+
+community:
+  - ref: 'Guest Speaker, <q>Data Visualizing: Primer and Prospects</q>'
+    org: 'Five Keys Schools'
+    loc: 'San Francisco County Jail #5, San Bruno, CA'
+    beg: false
+    end: 2018-03-22
+    key: '20180322'
+    url: 'https://www.fivekeyscharter.org/'
