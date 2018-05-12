@@ -331,3 +331,20 @@
   sort: 'CS360-2017-01b'
   link: 'https://github.com/usf-cs360-2017/lectures/wiki'
   show: false
+# FALL 2018
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-01'
+  term: 'Fall'
+  year: '2018'
+  sort: 'CS212-2018-01a'
+  link: 'https://github.com/usf-cs212-fall2018/lectures/wiki'
+  show: true
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-02'
+  term: 'Fall'
+  year: '2018'
+  sort: 'CS212-2018-01b'
+  link: 'https://github.com/usf-cs212-fall2018/lectures/wiki'
+  show: true
