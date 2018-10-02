@@ -320,6 +320,13 @@ professional:
     key: '20181022'
     url: 'http://vizsec.org/vizsec2018/'
 
+  - ref: 'Featured as a "Modern Women in Tech" in the "Our Time" Gallery'
+    org: 'Grace Hopper Celebration (GHC)'
+    beg: false
+    end: 2018-09-26
+    key: '20180926'
+    url: 'https://vimeo.com/289762602/30c246c503'
+
 community:
   - ref: 'Guest Speaker, <q>Data Visualizing: Primer and Prospects</q>'
     org: 'Five Keys Schools'
