@@ -101,7 +101,7 @@ university:
     beg: 2013
     end: 2016
     key: '2016A'
-    url: 'http://vgl.cs.usfca.edu/events/'
+    url: 'https://vgl.cs.usfca.edu/dvss/'
 
   - ref: 'Graduate Advisor'
     org: 'MS in Computer Science Program'
