@@ -3,61 +3,139 @@ layout: default
 title: Service
 ---
 
-<h3>Service to University</h3>{%
-  assign prev = 'none' %}{%
-  assign items = site.data.service.university | sort: 'key' | reverse %}
+<h3>Service to University</h3>
 
 <table class="table-hover table-dates compact">
-  <tbody>{% for item in items %}
-    {% capture curr %}{{ item.end | date: "%Y" }}{% endcapture %}
-    {% if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif %}
+  <tbody>
 
-    {% capture from %}{{ item.beg | date: "%Y" }}{% endcapture %}
-    {% if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif %}
+    {% assign prev = 'none' -%}
+    {% assign items = site.data.service.university | sort: 'key' | reverse -%}
 
+    {%- for item in items -%}
+      {%- capture curr %}{{ item.end | date: "%Y" }}{% endcapture -%}
+      {%- capture from %}{{ item.beg | date: "%Y" }}{% endcapture -%}
+      {%- if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+      {%- if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
 
-    {% if curr != prev %}{% assign prev = curr %}
+      {% if curr != prev -%}
     <tr class="spacer"><td colspan="2"></td></tr>
-    {% endif %}
+      {%- assign prev = curr -%}
+      {%- endif %}
+
     <tr>
-      <th>{% if item.beg %}{{ from }} &ndash; {% endif %}{% if item.end %}{{ curr }}{% endif %}</th>
+      <th>
+        {% if item.beg %}{{ from }} &ndash; {% endif -%}
+        {%- if item.end %}{{ curr }}{% endif %}
+      </th>
       <td>
-      {{ item.ref }}, <span class="text-muted">{% if item.url %}<a href="{{ item.url }}" class="text-muted"><b>{{ item.org }}</b></a>{% else %}{{ item.org }}{% endif %}, {% if item.loc %}{{ item.loc }}, {% endif %}{% if item.beg %}{{ from }} &ndash; {% endif %}{% if item.end %}{{ curr }}{% endif %}.</span>
+        {{ item.ref }},
+        <span class="text-muted">
+          {% if item.url -%}
+          <a href="{{ item.url }}" class="text-muted"><b>{{ item.org }}</b></a>,
+          {%- else -%}
+          {{ item.org }},
+          {%- endif %}
+          {% if item.loc %}{{ item.loc }}, {% endif %}
+          {% if item.beg %}{{ from }} &ndash; {% endif -%}
+          {% if item.end %}{{ item.end }}{% endif %}.
+        </span>
       </td>
-    </tr>{% endfor %}
+    </tr>
+
+    {% endfor %}
   </tbody>
 </table>
 
-<h3>Service to Profession</h3>{%
-  assign prev = 'none' %}{%
-  assign items = site.data.service.professional | sort: 'key' | reverse %}
+<h3>Service to Profession</h3>
 
 <table class="table-hover table-dates compact">
-  <tbody>{% for item in items %}{%
-      capture curr %}{{ item.end | date: "%Y" }}{% endcapture %}{%
-        if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif %}
+  <tbody>
+
+    {% assign prev = 'none' -%}
+    {% assign items = site.data.service.professional | sort: 'key' | reverse -%}
+
+    {%- for item in items -%}
+      {%- capture curr %}{{ item.end | date: "%Y" }}{% endcapture -%}
+      {%- capture from %}{{ item.beg | date: "%Y" }}{% endcapture -%}
+      {%- if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+      {%- if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
+
+      {% if curr != prev -%}
+    <tr class="spacer"><td colspan="2"></td></tr>
+      {%- assign prev = curr -%}
+      {%- endif %}
+
     <tr>
-      <th>{% if curr != prev %}{{ curr }}{% assign prev = curr %}{% endif %}</th>
+      <th>
+        {% if item.beg %}{% unless curr == from %}{{ from }} &ndash; {% endunless %}{% endif -%}
+        {%- if item.end %}{{ curr }}{% endif %}
+      </th>
       <td>
-      {{ item.ref }}, <span class="text-muted">{% if item.url %}<a href="{{ item.url }}" class="text-muted"><b>{{ item.org }}</b></a>{% else %}{{ item.org }}{% endif %}, {% if item.loc %}{{ item.loc }}, {% endif %}{% if item.beg %}{{ item.beg | date: "%b %Y"}} &ndash; {% endif %}{% if item.end < 3000 %}{{ item.end }}{% else %}{{ item.end | date: "%b %Y" }}{% endif %}.</span>
+        {%- capture curr %}{{ item.end | date: "%b %Y" }}{% endcapture -%}
+        {%- capture from %}{{ item.beg | date: "%b %Y" }}{% endcapture -%}
+        {%- if curr == 'Dec 1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+        {%- if from == 'Dec 1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
+        {{ item.ref }},
+        <span class="text-muted">
+          {% if item.url -%}
+          <a href="{{ item.url }}" class="text-muted"><b>{{ item.org }}</b></a>,
+          {%- else -%}
+          {{ item.org }},
+          {%- endif %}
+          {% if item.loc %}{{ item.loc }}, {% endif %}
+          {% if item.beg %}{% unless curr == from %}{{ from }} &ndash; {% endunless %}{% endif -%}
+          {% if item.end != 'Now' %}{{ curr }}{% else %}{{ item.end }}{% endif %}.
+        </span>
       </td>
-    </tr>{% endfor %}
+    </tr>
+
+    {% endfor %}
   </tbody>
 </table>
 
-<h3>Service to Community</h3>{%
-  assign prev = 'none' %}{%
-  assign items = site.data.service.community | sort: 'key' | reverse %}
+<h3>Service to Community</h3>
 
 <table class="table-hover table-dates compact">
-  <tbody>{% for item in items %}{%
-      capture curr %}{{ item.end | date: "%Y" }}{% endcapture %}{%
-        if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif %}
+  <tbody>
+
+    {% assign prev = 'none' -%}
+    {% assign items = site.data.service.community | sort: 'key' | reverse -%}
+
+    {%- for item in items -%}
+      {%- capture curr %}{{ item.end | date: "%Y" }}{% endcapture -%}
+      {%- capture from %}{{ item.beg | date: "%Y" }}{% endcapture -%}
+      {%- if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+      {%- if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
+
+      {% if curr != prev -%}
+    <tr class="spacer"><td colspan="2"></td></tr>
+      {%- assign prev = curr -%}
+      {%- endif %}
+
     <tr>
-      <th>{% if curr != prev %}{{ curr }}{% assign prev = curr %}{% endif %}</th>
+      <th>
+        {% if item.beg %}{% unless curr == from %}{{ from }} &ndash; {% endunless %}{% endif -%}
+        {%- if item.end %}{{ curr }}{% endif %}
+      </th>
       <td>
-      {{ item.ref }}, <span class="text-muted">{% if item.url %}<a href="{{ item.url }}" class="text-muted"><b>{{ item.org }}</b></a>{% else %}{{ item.org }}{% endif %}, {% if item.loc %}{{ item.loc }}, {% endif %}{% if item.beg %}{{ item.beg | date: "%b %Y"}} &ndash; {% endif %}{% if item.end < 3000 %}{{ item.end }}{% else %}{{ item.end | date: "%b %Y" }}{% endif %}.</span>
+        {%- capture curr %}{{ item.end | date: "%b %Y" }}{% endcapture -%}
+        {%- capture from %}{{ item.beg | date: "%b %Y" }}{% endcapture -%}
+        {%- if curr == 'Dec 1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+        {%- if from == 'Dec 1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
+        {{ item.ref }},
+        <span class="text-muted">
+          {% if item.url -%}
+          <a href="{{ item.url }}" class="text-muted"><b>{{ item.org }}</b></a>,
+          {%- else -%}
+          {{ item.org }},
+          {%- endif %}
+          {% if item.loc %}{{ item.loc }}, {% endif %}
+          {% if item.beg %}{% unless curr == from %}{{ from }} &ndash; {% endunless %}{% endif -%}
+          {% if item.end != 'Now' %}{{ curr }}{% else %}{{ item.end }}{% endif %}.
+        </span>
       </td>
-    </tr>{% endfor %}
+    </tr>
+
+    {% endfor %}
   </tbody>
 </table>

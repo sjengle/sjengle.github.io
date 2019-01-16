@@ -127,14 +127,6 @@ university:
     key: '2016D'
     url: false
 
-  - ref: 'Co-Founder'
-    org: 'Visualization and Graphics Lab'
-    loc: 'Department of Computer Science'
-    beg: 2015
-    end: 'Now'
-    key: '2016G'
-    url: 'http://vgl.cs.usfca.edu/'
-
   - ref: 'Committee Member'
     org: 'CS Faculty Search'
     loc: 'Department of Computer Science'
@@ -143,21 +135,29 @@ university:
     key: '2016F'
     url: false
 
-  - ref: 'Application Committee and Mentor'
-    org: 'Clare Booth Luce Scholarship'
-    loc: 'College of Arts and Sciences'
-    beg: false
-    end: 2018
-    key: '2018A'
-    url: false
-
   - ref: 'Committee Chair'
-    org: 'Newmark Women in Tech Scholarship (Undergraduate)'
+    org: 'Newmark Women in Tech Scholarships'
     loc: 'College of Arts and Sciences'
     beg: false
     end: 2019
     key: '2019A'
     url: false
+
+  - ref: 'Committee Member and Mentor'
+    org: 'Clare Booth Luce Scholarships'
+    loc: 'College of Arts and Sciences'
+    beg: 2018
+    end: 'Now'
+    key: 'Now-2018'
+    url: 'http://www.hluce.org/cblprogram.aspx'
+
+  - ref: 'Co-Founder'
+    org: 'Visualization and Graphics Lab'
+    loc: 'Department of Computer Science'
+    beg: 2015
+    end: 'Now'
+    key: 'Now-2015'
+    url: 'https://vgl.cs.usfca.edu/'
 
 professional:
   - ref: 'Program Committee'
@@ -331,8 +331,8 @@ professional:
   - ref: 'Steering Committee'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
     beg: 2018-10-22
-    end: false
-    key: '20181022b'
+    end: 'Now'
+    key: '2019'
     url: 'http://vizsec.org/'
 
 community:
