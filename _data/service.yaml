@@ -151,6 +151,14 @@ university:
     key: '2018A'
     url: false
 
+  - ref: 'Committee Chair'
+    org: 'Newmark Women in Tech Scholarship (Undergraduate)'
+    loc: 'College of Arts and Sciences'
+    beg: false
+    end: 2019
+    key: '2019A'
+    url: false
+
 professional:
   - ref: 'Program Committee'
     org: 'Center of Academic Excellence (CAE) Workshop on Insider Threat (WIT)'
@@ -317,15 +325,15 @@ professional:
     loc: 'Berlin, Germany'
     beg: false
     end: 2018-10-22
-    key: '20181022'
+    key: '20181022a'
     url: 'http://vizsec.org/vizsec2018/'
 
-  - ref: 'Featured as a "Modern Women in Tech" in the "Our Time" Gallery'
-    org: 'Grace Hopper Celebration (GHC)'
-    beg: false
-    end: 2018-09-26
-    key: '20180926'
-    url: 'https://vimeo.com/289762602/30c246c503'
+  - ref: 'Steering Committee'
+    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+    beg: 2018-10-22
+    end: false
+    key: '20181022b'
+    url: 'http://vizsec.org/'
 
 community:
   - ref: 'Guest Speaker, <q>Data Visualizing: Primer and Prospects</q>'
@@ -335,3 +343,10 @@ community:
     end: 2018-03-22
     key: '20180322'
     url: 'https://www.fivekeyscharter.org/'
+
+  - ref: 'Featured as a "Modern Women in Tech" in the "Our Time" Gallery'
+    org: 'Grace Hopper Celebration (GHC)'
+    beg: false
+    end: 2018-09-26
+    key: '20180926'
+    url: 'https://vimeo.com/289762602/30c246c503'
