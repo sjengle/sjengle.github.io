@@ -16,25 +16,22 @@ endfor %}
 <h3>Previous Semesters</h3>
 
 <ul class="list-unstyled">{%
-  assign link = 'none' %}{%
+  assign courses = site.data.teaching | group_by: 'id' | sort: 'name' %}{%
   assign prev = 'none' %}{%
-  assign courses = site.data.teaching | sort: 'sort' %}{%
-    for course in courses %}{%
-      if course.id != prev %}{%
-      assign prev = course.id %}{%
-        if forloop.first %}{%
-        else
-    %}</p>
-  </li>{%
-        endif %}
+  for course in courses %}
   <li>
     <p>
-      {{ course.id }} {{ course.name}}<br/>
-      <a href="{{ course.link }}">{{ course.term }} {{ course.year }}</a>{%
-      else %}{% if course.link == link %} <span class="text-muted">(2x Sections)</span>{% endif %}{% if course.link == link %}{% else %}, <a href="{{ course.link }}">{{ course.term }} {{ course.year }}</a>{%
-      endif %}{% endif %}{%
-      assign link = course.link %}{%
-    endfor %}
+      {{ course.name }} {{ course.items.last.name }}<br/>{%
+      for section in course.items %}{%
+        if section.link != prev %}{% unless forloop.first %}, {% endunless %}
+      <a href="{{ section.link }}">{{ section.term }} {{ section.year }}</a>{%
+        else %} <span class="text-muted">(2x Sections)</span>{%
+        endif %}{%
+        assign prev = section.link %}{%
+      endfor %}
+    </p>
+  </li>
+  {% endfor %}
 </ul>
 
 <h3>Archived Courses</h3>

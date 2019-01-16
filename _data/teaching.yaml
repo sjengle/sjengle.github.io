@@ -365,7 +365,7 @@
   sort: 'CS360-2019-01'
   link: 'https://usf-cs360-spring2019.github.io/'
   show: true
-- id: 'CS 360'
+- id: 'CS 560'
   name: 'Data Visualization'
   code: 'CS 560-01'
   term: 'Spring'
