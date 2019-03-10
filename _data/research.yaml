@@ -177,6 +177,19 @@
         - icon: 'far fa-external-link-square'
           name: 'Website'
           link: 'http://www.sos.ca.gov/elections/voting-systems/oversight/top-bottom-review/'
+
+- label: 'External Grants'
+  items:
+    - year: 2019
+      name: 'Community Engaged Scholars In Computer Science'
+      cite: 'Sophie Engle (Current Principal Investigator, Previously Sami Rollins), Christina Tzagarakis-Foster (Co-PI), Alark Joshi (Co-PI), Matthew Malensek (Co-PI), and Malik Henfield (Co-PI), NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM), Mar 2019 &ndash; Feb 2024'
+      link: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1833718&HistoricalAwards=false'
+
+    - year: 2017
+      name: 'CI-P: Toward Brain-Computer Interfaces that Adapt to User Cognitive State'
+      cite: 'Beste Yuksel (Principal Investigator), Alark Joshi (Co-PI), and Sophie Engle (Co-PI), Award #1730705, CISE Research Infrastructure (CRI) Program, National Science Foundation, 2017'
+      link: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730705&HistoricalAwards=false'
+
 - label: 'Posters and Contests'
   items:
     - year: 2016

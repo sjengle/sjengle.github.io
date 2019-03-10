@@ -127,12 +127,28 @@ university:
     key: '2016D'
     url: false
 
+  - ref: 'Invited Presenter'
+    org: '"Innovative Uses of Technology in CS," CIT Tech Intensives Program, Center for Instruction and Technology'
+    loc: 'University of San Francisco'
+    beg: false
+    end: 2016
+    key: '2016E'
+    url: false
+
   - ref: 'Committee Member'
-    org: 'CS Faculty Search'
+    org: 'Tenure-Track Faculty Search'
     loc: 'Department of Computer Science'
     beg: 2016
     end: 2017
     key: '2016F'
+    url: false
+
+  - ref: 'Committee Member'
+    org: 'Tenure-Track Faculty Search'
+    loc: 'Department of Computer Science'
+    beg: 2018
+    end: 2019
+    key: '2018F'
     url: false
 
   - ref: 'Committee Chair'
@@ -141,6 +157,15 @@ university:
     beg: false
     end: 2019
     key: '2019A'
+    url: false
+
+  - ref: 'Invited Co-Presenter'
+    org: '"Facilitating Communication and Collaboration in Your Course
+    using Free Online Tools: Canvas Discussion Boards and Piazza," Peer2Peer Series on Teaching &amp; Technology, Instructional Technology and Training'
+    loc: 'University of San Francisco'
+    beg: false
+    end: 2019
+    key: '2019B'
     url: false
 
   - ref: 'Committee Member and Mentor'

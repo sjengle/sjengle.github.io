@@ -14,7 +14,7 @@ title: Service
     {%- for item in items -%}
       {%- capture curr %}{{ item.end | date: "%Y" }}{% endcapture -%}
       {%- capture from %}{{ item.beg | date: "%Y" }}{% endcapture -%}
-      {%- if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+      {%- if curr == '1969' or item.end == 'Now' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
       {%- if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
 
       {% if curr != prev -%}
@@ -57,7 +57,7 @@ title: Service
     {%- for item in items -%}
       {%- capture curr %}{{ item.end | date: "%Y" }}{% endcapture -%}
       {%- capture from %}{{ item.beg | date: "%Y" }}{% endcapture -%}
-      {%- if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+      {%- if curr == '1969' or item.end == 'Now' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
       {%- if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
 
       {% if curr != prev -%}
@@ -104,7 +104,7 @@ title: Service
     {%- for item in items -%}
       {%- capture curr %}{{ item.end | date: "%Y" }}{% endcapture -%}
       {%- capture from %}{{ item.beg | date: "%Y" }}{% endcapture -%}
-      {%- if curr == '1969' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
+      {%- if curr == '1969' or item.end == 'Now' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
       {%- if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
 
       {% if curr != prev -%}
