@@ -166,7 +166,7 @@ university:
     beg: false
     end: 2019
     key: '2019B'
-    url: false
+    url: 'http://usfcte.net/peer2peer/'
 
   - ref: 'Committee Member and Mentor'
     org: 'Clare Booth Luce Scholarships'
