@@ -411,7 +411,7 @@
   year: '2020'
   sort: 'CS360-2020-01'
   link: 'https://usf-cs360-spring2020.github.io/'
-  show: false
+  show: true
 - id: 'CS 560'
   name: 'Data Visualization'
   code: 'CS 560-01'
@@ -419,4 +419,4 @@
   year: '2020'
   sort: 'CS560-2020-01'
   link: 'https://usf-cs360-spring2020.github.io/'
-  show: false
+  show: true
