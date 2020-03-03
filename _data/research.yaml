@@ -144,6 +144,15 @@
           name: 'Slides'
 - label: 'Unrefereed Publications and Reports'
   items:
+    - year: 2020
+      name: 'Both and Neither'
+      cite: '<b>Sophie Engle</b>, in <em>Journal of Interdisciplinary Perspectives and Scholarship</em>, Volume 2, 2020.'
+      link: 'https://repository.usfca.edu/jips/vol2/iss1/7/'
+      more:
+        - icon: 'far fa-file-pdf'
+          name: 'Essay'
+          link: 'https://repository.usfca.edu/cgi/viewcontent.cgi?article=1025&context=jips'
+
     - year: 2010
       name: 'A Risk Management Approach to Insider Threat'
       cite: 'Matt Bishop, <b>Sophie Engle</b>, Deborah A. Frincke, Carrie Gates, Frank L. Greitzer, Sean Peisert, and Sean Whalen, in <em>Insider Threats in Cyber Security</em>,  Advances in Information Security, Volume 49, p115&ndash;137, Springer, 2010'
