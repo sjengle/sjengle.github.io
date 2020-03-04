@@ -45,7 +45,7 @@ university:
     beg: 2013
     end: 2014
     key: '2014B'
-    url: 'http://tutoringcenter.cs.usfca.edu/'
+    url: 'https://tutoringcenter.cs.usfca.edu/'
 
   - ref: 'Committee Member'
     org: 'Tenure-Track Faculty Search'
@@ -61,7 +61,7 @@ university:
     beg: false
     end: 2014
     key: '2014D'
-    url: 'http://usfcte.net/activities/openclassrooms/hosts/'
+    url: 'https://usfcte.net/activities/openclassrooms/hosts/'
 
   - ref: 'Committee Member'
     org: 'Term Faculty Search'
@@ -166,7 +166,7 @@ university:
     beg: false
     end: 2019
     key: '2019B'
-    url: 'http://usfcte.net/peer2peer/'
+    url: 'https://usfcte.net/peer2peer/'
 
   - ref: 'Committee Member and Mentor'
     org: 'Clare Booth Luce Scholarships'
@@ -174,7 +174,7 @@ university:
     beg: 2018
     end: 'Now'
     key: 'Now-2018'
-    url: 'http://www.hluce.org/cblprogram.aspx'
+    url: 'https://www.hluce.org/programs/clare-boothe-luce-program/'
 
   - ref: 'Co-Founder'
     org: 'Visualization and Graphics Lab'
@@ -207,7 +207,7 @@ professional:
     beg: 2011-09-12
     end: 2011-09-15
     key: '201109'
-    url: 'http://www.nspw.org/2011'
+    url: 'https://www.nspw.org/2011'
 
   - ref: 'Program Committee'
     org: 'International Conference on Computers and Their Applications (CATA)'
@@ -215,7 +215,7 @@ professional:
     beg: 2012-03-12
     end: 2012-03-14
     key: '201203'
-    url: 'http://web.mst.edu/~cata2012/Archive/'
+    # url: 'http://web.mst.edu/~cata2012/Archive/'
 
   - ref: 'Poster Chair'
     org: 'IEEE Symposium on Security and Privacy (IEEE S&amp;P)'
@@ -223,7 +223,7 @@ professional:
     beg: 2013-05-19
     end: 2013-05-22
     key: '201305'
-    url: 'http://www.ieee-security.org/TC/SP2013/'
+    url: 'https://www.ieee-security.org/TC/SP2013/'
 
   - ref: 'Publication and Publicity Chair'
     org: 'Workshop on Visualization for Cyber Security (VizSec)'
@@ -231,7 +231,7 @@ professional:
     beg: false
     end: 2013-10-14
     key: '201310'
-    url: 'http://vizsec.org/vizsec2013/'
+    url: 'https://vizsec.org/vizsec2013/'
 
   - ref: 'Proposal Review Panelist'
     org: 'NSF Secure and Trustworthy Cyberspace (SaTC)'
@@ -247,7 +247,7 @@ professional:
     beg: 2014-05-18
     end: 2014-05-21
     key: '201405'
-    url: 'http://www.ieee-security.org/TC/SP2014/'
+    url: 'https://www.ieee-security.org/TC/SP2014/'
 
   - ref: 'Program Committee, Security/Privacy Track'
     org: 'Grace Hopper Celebration of Women in Computing (GHC)'
@@ -255,7 +255,7 @@ professional:
     beg: 2014-10-08
     end: 2014-10-10
     key: '201410'
-    url: 'http://cdn-ghc.anitaborg.org/wp-content/uploads/sites/2/2014/10/ABI_GHC-2014-Online-Program_Addendum.pdf'
+    url: 'https://ghc.anitab.org/wp-content/uploads/sites/2/2014/10/ABI_GHC-2014-Online-Program_Addendum.pdf'
 
   - ref: 'Program Chair'
     org: 'Workshop on Visualization for Cyber Security (VizSec)'
@@ -263,7 +263,7 @@ professional:
     beg: false
     end: 2014-11-10
     key: '201411'
-    url: 'http://vizsec.org/vizsec2014/'
+    url: 'https://vizsec.org/vizsec2014/'
 
   - ref: 'Program Committee'
     org: 'Cyber and Information Security Research (CISR) Conference'
@@ -271,7 +271,7 @@ professional:
     beg: 2015-04-07
     end: 2015-04-09
     key: '201504'
-    url: 'http://www.cisr.ornl.gov/cisrc15/'
+    # url: 'http://www.cisr.ornl.gov/cisrc15/'
 
   - ref: 'Co-Publication and Poster Chair'
     org: 'IEEE Symposium on Security and Privacy (IEEE S&amp;P)'
@@ -279,7 +279,7 @@ professional:
     beg: 2015-05-18
     end: 2015-05-20
     key: '201505'
-    url: 'http://www.ieee-security.org/TC/SP2015/'
+    url: 'https://www.ieee-security.org/TC/SP2015/'
 
   - ref: 'Publication Chair'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
@@ -295,7 +295,7 @@ professional:
     beg: 2016-06-06
     end: 2016-06-10
     key: '201606'
-    url: 'http://www.cs.rug.nl/jbi/eurovis2016/'
+    # url: 'http://www.cs.rug.nl/jbi/eurovis2016/'
 
   - ref: 'Publication Chair'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
@@ -303,7 +303,7 @@ professional:
     beg: false
     end: 2016-10-24
     key: '20161024'
-    url: 'http://vizsec.org/'
+    url: 'https://vizsec.org/'
 
   - ref: 'Organizing Committee'
     org: 'Pedagogy of Data Visualization Workshop (PDVW)'
@@ -311,7 +311,7 @@ professional:
     beg: false
     end: 2016-10-23
     key: '20161023'
-    url: 'http://vgl.cs.usfca.edu/pdvw/2016/'
+    url: 'https://vgl.cs.usfca.edu/pdvw/2016/'
 
   - ref: 'Program Committee (NIER and Tool Tracks)'
     org: 'IEEE Working Conference on Software Visualization (VISSOFT 2017)'
@@ -327,7 +327,7 @@ professional:
     beg: false
     end: 2017-10-01
     key: '20171001'
-    url: 'http://vgl.cs.usfca.edu/pdvw/2017/'
+    url: 'https://vgl.cs.usfca.edu/pdvw/2017/'
 
   - ref: 'Papers Reviewer'
     org: 'IEEE Information Visualization (InfoVis)'
@@ -343,7 +343,7 @@ professional:
     beg: false
     end: 2017-10-02
     key: '20171002'
-    url: 'http://vizsec.org/vizsec2017/'
+    url: 'https://vizsec.org/vizsec2017/'
 
   - ref: 'Chair at Large'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
@@ -351,14 +351,14 @@ professional:
     beg: false
     end: 2018-10-22
     key: '20181022a'
-    url: 'http://vizsec.org/vizsec2018/'
+    url: 'https://vizsec.org/vizsec2018/'
 
   - ref: 'Steering Committee'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
     beg: 2018-10-22
     end: 'Now'
     key: '2019'
-    url: 'http://vizsec.org/'
+    url: 'https://vizsec.org/'
 
 community:
   - ref: 'Guest Speaker, <q>Data Visualizing: Primer and Prospects</q>'
