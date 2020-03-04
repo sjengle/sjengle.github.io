@@ -146,7 +146,7 @@
   items:
     - year: 2020
       name: 'Both and Neither'
-      cite: '<b>Sophie Engle</b>, in <em>Journal of Interdisciplinary Perspectives and Scholarship</em>, Volume 2, 2020.'
+      cite: '<b>Sophie Engle</b>, in <em>Journal of Interdisciplinary Perspectives and Scholarship</em>, Volume 2, 2020'
       link: 'https://repository.usfca.edu/jips/vol2/iss1/7/'
       more:
         - icon: 'far fa-file-pdf'
