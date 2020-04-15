@@ -168,6 +168,14 @@ university:
     key: '2019B'
     url: 'https://usfcte.net/peer2peer/'
 
+  - ref: 'Open Classroom Host'
+    org: 'Educational Technology Focus'
+    loc: 'Center for Teaching Excellence'
+    beg: false
+    end: 2020
+    key: '2020A'
+    url: 'http://usfcte.net/openclassrooms/'
+
   - ref: 'Committee Member and Mentor'
     org: 'Clare Booth Luce Scholarships'
     loc: 'College of Arts and Sciences'
