@@ -1,5 +1,10 @@
 - label: 'Refereed Publications'
   items:
+    - year: 2020
+      name: 'Collaborative Visual Analytics Using Blockchain'
+      cite: 'Darius Coelho, Rubin Trailor, Daniel Sill, <b>Sophie Engle</b>, Alark Joshi, Serge Mankovskii, Maria Velez-Rojas, Steven Greenspan, Klaus Mueller, in <em>Proceedings of the International Conference on Cooperative Design, Visualization and Engineering (CDVE 2020)</em>, Lecture Notes in Computer Science, volume 12341, pages 209-219, October 2020'
+      link: 'https://doi.org/10.1007/978-3-030-60816-3_24'
+      tags: ['datavis']
     - year: 2018
       name: 'Using Animation to Alleviate Overdraw in Multiclass Scatterplot Matrices'
       cite: 'Helen Chen, <b>Sophie Engle</b>, Alark Joshi, Eric D. Ragan, Beste Filiz Yuksel, and Lane Harrison, in <em><a href="https://chi2018.acm.org/">Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018)</a></em>, ACM, New York, NY, USA, April 2018'
@@ -201,6 +206,11 @@
 
 - label: 'Posters and Contests'
   items:
+    - year: 2020
+      name: 'Engendering Community to Computer Science Freshmen through an Early Arrival Program'
+      cite: 'Alark Joshi, Gian Bruno, Xornam Apedoe, Sophie Engle, Sami Rollins, and Matthew Malensek, Poster, in <em>American Society for Engineering Education</em>, June 2020'
+      link: 'https://www.asee.org/public/conferences/172/papers/30680/view'
+      tags: ['education']
     - year: 2016
       name: 'Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique'
       cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster, in the <em><a href="https://vinci-conf.org/2016/">9th International Symposium on Visual Information Communication and Interaction (VINCI)</a></em>, Dallas, TX, September 2016 <strong>(Best Poster Award)</strong>'

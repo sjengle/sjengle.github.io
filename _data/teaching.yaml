@@ -425,7 +425,6 @@
   year: '2020'
   sort: 'CS186-2020'
   link: 'https://scholars.cs.usfca.edu/cs186-fall2020/'
-  show: true
 - id: 'CS 212'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -433,7 +432,6 @@
   year: '2020'
   sort: 'CS212-2020-08a'
   link: 'https://usf-cs212-fall2020.github.io/'
-  show: true
 - id: 'CS 212'
   name: 'Software Development'
   code: 'CS 212-02'
@@ -441,4 +439,20 @@
   year: '2019'
   sort: 'CS212-2020-08b'
   link: 'https://usf-cs212-fall2020.github.io/'
+# SPRING 2021
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-01'
+  term: 'Spring'
+  year: '2021'
+  sort: 'CS212-2021-01a'
+  link: 'https://usf-cs212-spring2021.github.io/'
+  show: true
+- id: 'CS 212'
+  name: 'Software Development'
+  code: 'CS 212-02'
+  term: 'Spring'
+  year: '2021'
+  sort: 'CS212-2021-01b'
+  link: 'https://usf-cs212-spring2021.github.io/'
   show: true

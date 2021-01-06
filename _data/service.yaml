@@ -154,9 +154,17 @@ university:
   - ref: 'Committee Chair'
     org: 'Newmark Women in Tech Scholarships'
     loc: 'College of Arts and Sciences'
-    beg: false
-    end: 2019
-    key: '2019A'
+    beg: 2019
+    end: 2020
+    key: '2019B'
+    url: false
+
+  - ref: 'Committee Member'
+    org: 'Tenure-Track Faculty Search'
+    loc: 'Department of Psychology'
+    beg: 2019
+    end: 2020
+    key: '2019C'
     url: false
 
   - ref: 'Invited Co-Presenter'
@@ -165,7 +173,7 @@ university:
     loc: 'University of San Francisco'
     beg: false
     end: 2019
-    key: '2019B'
+    key: '2019A'
     url: 'https://usfcte.net/peer2peer/'
 
   - ref: 'Open Classroom Host'
@@ -180,8 +188,8 @@ university:
     org: 'Clare Booth Luce Scholarships'
     loc: 'College of Arts and Sciences'
     beg: 2018
-    end: 'Now'
-    key: 'Now-2018'
+    end: 2020
+    key: '2018G'
     url: 'https://www.hluce.org/programs/clare-boothe-luce-program/'
 
   - ref: 'Co-Founder'
