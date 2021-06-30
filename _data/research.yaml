@@ -1,5 +1,14 @@
 - label: 'Refereed Publications'
   items:
+    - year: 2021
+      name: 'Work-in-Progress: Understanding Professional Identity Development Among Computer Science Students'
+      cite: 'Sami Rollins, Alark Joshi, Xornam Apedoe, <b>Sophie Engle</b>, Matthew Malensek, Gian Bruno, in <em>Proceedings of the ASEE Annual Conference and Exposition 2021</em>, July 2021'
+      link: 'https://www.asee.org/public/conferences/223/papers/32808/view'
+      tags: ['education']
+    - year: 2021
+      name: 'Reducing Implicit Gender Bias Using a Virtual Workplace Environment'
+      cite: "Kevin Beltran, Cody Rowland, Nicki Hashemi, Anh Nguyen, Lane Harrison, <b>Sophie Engle</b>, and Beste F. Yuksel, in <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing 2021 (CHI EA '21)</em>, article number 277, pages 1–7, May 2021"
+      link: 'https://doi.org/10.1145/3411763.3451739'
     - year: 2020
       name: 'Collaborative Visual Analytics Using Blockchain'
       cite: 'Darius Coelho, Rubin Trailor, Daniel Sill, <b>Sophie Engle</b>, Alark Joshi, Serge Mankovskii, Maria Velez-Rojas, Steven Greenspan, Klaus Mueller, in <em>Proceedings of the International Conference on Cooperative Design, Visualization and Engineering (CDVE 2020)</em>, Lecture Notes in Computer Science, volume 12341, pages 209-219, October 2020'
@@ -208,7 +217,7 @@
   items:
     - year: 2020
       name: 'Engendering Community to Computer Science Freshmen through an Early Arrival Program'
-      cite: 'Alark Joshi, Gian Bruno, Xornam Apedoe, Sophie Engle, Sami Rollins, and Matthew Malensek, Poster, in <em>American Society for Engineering Education</em>, June 2020'
+      cite: 'Alark Joshi, Gian Bruno, Xornam Apedoe, Sophie Engle, Sami Rollins, and Matthew Malensek, Poster, in <em>NSF Grantees Session, American Society for Engineering Education (ASEE) Annual Conference</em>, June 2020'
       link: 'https://www.asee.org/public/conferences/172/papers/30680/view'
       tags: ['education']
     - year: 2016
