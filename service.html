@@ -16,6 +16,10 @@ title: Service
       {%- capture from %}{{ item.beg | date: "%Y" }}{% endcapture -%}
       {%- if curr == '1969' or item.end == 'Now' %}{% capture curr %}{{ item.end }}{% endcapture %}{% endif -%}
       {%- if from == '1969' %}{% capture from %}{{ item.beg }}{% endcapture %}{% endif -%}
+      {%- capture beg %}{{ item.beg | date: "%b %Y" }}{% endcapture -%}
+      {%- capture end %}{{ item.end | date: "%b %Y" }}{% endcapture -%}
+      {%- if beg == 'Dec 1969' %}{% capture beg %}{{ from }}{% endcapture %}{% endif -%}
+      {%- if end == 'Dec 1969' or item.end == 'Now' %}{% capture end %}{{ curr }}{% endcapture %}{% endif -%}
 
       {% if curr != prev -%}
     <tr class="spacer"><td colspan="2"></td></tr>
@@ -36,8 +40,8 @@ title: Service
           {{ item.org }},
           {%- endif %}
           {% if item.loc %}{{ item.loc }}, {% endif %}
-          {% if item.beg %}{{ from }} &ndash; {% endif -%}
-          {% if item.end %}{{ item.end }}{% endif %}.
+          {% if item.beg %}{{ beg }} &ndash; {% endif -%}
+          {% if item.end %}{{ end }}{% endif %}.
         </span>
       </td>
     </tr>

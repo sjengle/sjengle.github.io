@@ -59,7 +59,7 @@ university:
     org: 'Educational Technology Focus'
     loc: 'Center for Teaching Excellence'
     beg: false
-    end: 2014
+    end: 2014-03-19
     key: '2014D'
     url: 'https://usfcte.net/activities/openclassrooms/hosts/'
 
@@ -83,7 +83,7 @@ university:
     org: "Steppin' Up in STEM: Women in Technology &amp; Education"
     loc: 'Career Services Center'
     beg: false
-    end: 2015
+    end: 2015-11-03
     key: '2015C'
     url: false
 
@@ -131,7 +131,7 @@ university:
     org: '"Innovative Uses of Technology in CS," CIT Tech Intensives Program, Center for Instruction and Technology'
     loc: 'University of San Francisco'
     beg: false
-    end: 2016
+    end: 2016-03-07
     key: '2016E'
     url: false
 
@@ -172,7 +172,7 @@ university:
     using Free Online Tools: Canvas Discussion Boards and Piazza," Peer2Peer Series on Teaching &amp; Technology, Instructional Technology and Training'
     loc: 'University of San Francisco'
     beg: false
-    end: 2019
+    end: 2019-03-26
     key: '2019A'
     url: 'https://usfcte.net/peer2peer/'
 
@@ -180,9 +180,25 @@ university:
     org: 'Educational Technology Focus'
     loc: 'Center for Teaching Excellence'
     beg: false
-    end: 2020
+    end: 2020-02-12
     key: '2020A'
     url: 'http://usfcte.net/openclassrooms/'
+
+  - ref: 'Co-Organizer and Instructor'
+    org: 'CS Head Start Week'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2019-08-16
+    key: '2019D'
+    url: 'https://scholars.cs.usfca.edu/start2019/'
+
+  - ref: 'Co-Organizer and Instructor'
+    org: 'CS Head Start Week'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2020-08-11
+    key: '2020A'
+    url: 'https://scholars.cs.usfca.edu/start2020/'
 
   - ref: 'Committee Member and Mentor'
     org: 'Clare Booth Luce Scholarships'
@@ -199,6 +215,22 @@ university:
     end: 'Now'
     key: 'Now-2015'
     url: 'https://vgl.cs.usfca.edu/'
+
+  - ref: 'Co-Chair'
+    org: 'Tenure-Track Faculty Search'
+    loc: 'Department of Computer Science'
+    beg: 2021
+    end: 2022
+    key: '2021A'
+    url: false
+
+  - ref: 'Advisor'
+    org: 'CS Major and Minor'
+    loc: 'Department of Computer Science'
+    beg: 2017
+    end: 'Now'
+    key: 'Now-2017'
+    url: false
 
 professional:
   - ref: 'Program Committee'
@@ -361,6 +393,12 @@ professional:
     key: '20171002'
     url: 'https://vizsec.org/vizsec2017/'
 
+  - ref: 'Screening Committee'
+    org: 'Fulbright Thai Graduate Scholarship'
+    beg: false
+    end: 2018-05-01
+    key: '20180501'
+
   - ref: 'Chair at Large'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
     loc: 'Berlin, Germany'
@@ -373,10 +411,23 @@ professional:
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
     beg: 2018-10-22
     end: 'Now'
-    key: '2019'
+    key: 'Now-2019'
+    url: 'https://vizsec.org/'
+
+  - ref: 'Program Committee'
+    org: 'Symposium on Visualization for Cyber Security (VizSec)'
+    beg: 2013
+    end: 'Now'
+    key: 'Now-2013'
     url: 'https://vizsec.org/'
 
 community:
+  - ref: 'Guest Speaker'
+    org: 'International Book Club discussing "There There" by Tommy Orange'
+    beg: false
+    end: 2021-07-26
+    key: '20210726'
+
   - ref: 'Guest Speaker, <q>Data Visualizing: Primer and Prospects</q>'
     org: 'Five Keys Schools'
     loc: 'San Francisco County Jail #5, San Bruno, CA'
