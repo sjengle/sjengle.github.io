@@ -232,6 +232,14 @@ university:
     key: 'Now-2017'
     url: false
 
+  - ref: 'Co-Investigator, Scholar Coordinator, Faculty Mentor'
+    org: 'Community Engaged Scholars in Computer Science'
+    loc: 'Department of Computer Science'
+    beg: 2019
+    end: 'Now'
+    key: 'Now-2019'
+    url: 'https://scholars.cs.usfca.edu/'
+
 professional:
   - ref: 'Program Committee'
     org: 'Center of Academic Excellence (CAE) Workshop on Insider Threat (WIT)'
