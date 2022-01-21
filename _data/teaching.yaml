@@ -462,7 +462,6 @@
   year: '2021'
   sort: 'CS212-2021-08a'
   link: 'https://usf-cs272-fall2021.github.io/'
-  show: true
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-02'
@@ -470,4 +469,20 @@
   year: '2021'
   sort: 'CS212-2021-08b'
   link: 'https://usf-cs272-fall2021.github.io/'
+# SPRING 2022
+- id: 'CS 272'
+  name: 'Software Development'
+  code: 'CS 272-01'
+  term: 'Spring'
+  year: '2022'
+  sort: 'CS212-2022-01a'
+  link: 'https://usf-cs272-spring2022.github.io/'
+  show: true
+- id: 'CS 272'
+  name: 'Software Development'
+  code: 'CS 272-02'
+  term: 'Spring'
+  year: '2022'
+  sort: 'CS212-2022-01b'
+  link: 'https://usf-cs272-spring2022.github.io/'
   show: true
