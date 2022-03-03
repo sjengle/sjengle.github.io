@@ -224,6 +224,22 @@ university:
     key: '2021A'
     url: false
 
+  - ref: 'Webtrack Advisor'
+    org: 'CS Major'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2019
+    key: '2019E'
+    url: false
+
+  - ref: 'Webtrack Advisor'
+    org: 'CS Major'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2020
+    key: '2020C'
+    url: false
+
   - ref: 'Advisor'
     org: 'CS Major and Minor'
     loc: 'Department of Computer Science'
