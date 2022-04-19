@@ -1,5 +1,26 @@
 - label: 'Refereed Publications'
   items:
+    - year: 2022
+      name: 'Using a Virtual Workplace Environment to Reduce Implicit Gender Bias'
+      cite: 'Kevin Beltran, Cody Rowland, Nicki Hashemi, Anh Nguyen, Lane Harrison, <b>Sophie Engle</b>, and Beste F. Yuksel, in the <em>International Journal of Human-Computer Interaction</em>, April 2022'
+      link: 'https://www.tandfonline.com/eprint/J4JHETJACZV4SGRZZQKY/full?target=10.1080/10447318.2022.2041902'
+    - year: 2022
+      name: 'Lessons Learned from Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback'
+      cite: 'Daniel Barajas, Xornam Apedoe, David Guy Brizan, Alark Joshi, and <b>Sophie Engle</b>, in <em>IEEE Computer Graphics and Applications</em>, February 2022'
+      link: 'https://doi.org/10.1109/MCG.2022.3149683'
+      tags: ['datavis', 'education']
+    - year: 2022
+      name: 'Nirmaan: Dataset Generation for Multiclass Scatterplot Studies'
+      link: 'https://doi.org/10.2352/EI.2022.34.1.VDA-415'
+      cite: 'Allison Wong, Alark Joshi, and <b>Sophie Engle</b>, in <em>Proceedings of IS&amp;T International Symposium on Electronic Imaging: Visualization and Data Analysis</em>, January 2022'
+      tags: ['datavis']
+      more:
+        - icon: 'far fa-external-link-square'
+          link: 'https://vgl.cs.usfca.edu/nirmaan/'
+          name: 'Project Website'
+        - icon: 'fab fa-github'
+          link: 'https://github.com/usfvgl/nirmaan/'
+          name: 'Project Repository'
     - year: 2021
       name: 'Work-in-Progress: Understanding Professional Identity Development Among Computer Science Students'
       cite: 'Sami Rollins, Alark Joshi, Xornam Apedoe, <b>Sophie Engle</b>, Matthew Malensek, Gian Bruno, in <em>Proceedings of the ASEE Annual Conference and Exposition 2021</em>, July 2021'
