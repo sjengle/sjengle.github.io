@@ -240,6 +240,14 @@ university:
     key: '2020C'
     url: false
 
+  - ref: 'Co-Chair'
+    org: 'Hybrid Learning Task Force'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2022
+    key: '2022A'
+    url: false
+
   - ref: 'Advisor'
     org: 'CS Major and Minor'
     loc: 'Department of Computer Science'
