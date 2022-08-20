@@ -454,6 +454,13 @@
   year: '2021'
   sort: 'CS212-2021-01b'
   link: 'https://usf-cs212-spring2021.github.io/'
+# SUMMER 2021
+- id: 'CS 272'
+  name: 'Software Development Intensive'
+  term: 'Summer'
+  year: '2021'
+  sort: 'CS212-2021-06'
+  link: 'https://usfca.instructure.com/courses/1603453'
 # FALL 2021
 - id: 'CS 272'
   name: 'Software Development'
