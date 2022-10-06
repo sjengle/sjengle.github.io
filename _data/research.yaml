@@ -9,6 +9,10 @@
       cite: 'Daniel Barajas, Xornam Apedoe, David Guy Brizan, Alark Joshi, and <b>Sophie Engle</b>, in <em>IEEE Computer Graphics and Applications</em>, February 2022'
       link: 'https://doi.org/10.1109/MCG.2022.3149683'
       tags: ['datavis', 'education']
+      more:
+        - icon: 'far fa-file-pdf'
+          link: 'pdf/2022 Visualization Rubric Utilization (Preprint).pdf'
+          name: 'Paper'
     - year: 2022
       name: 'Nirmaan: Dataset Generation for Multiclass Scatterplot Studies'
       link: 'https://doi.org/10.2352/EI.2022.34.1.VDA-415'
