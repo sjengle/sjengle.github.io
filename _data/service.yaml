@@ -248,6 +248,30 @@ university:
     key: '2022A'
     url: false
 
+  - ref: 'Co-Organizer'
+    org: 'Computer Science Undergraduate Curriculum Retreat'
+    loc: 'Department of Computer Science'
+    beg: false
+    end: 2022-12-16
+    key: '2022B'
+    url: false
+
+  - ref: 'Co-Author'
+    org: 'Computer Science Bylaws'
+    loc: 'Department of Computer Science'
+    beg: 2022
+    end: 'Now'
+    key: 'Now-2022A'
+    url: false
+
+  - ref: 'Co-Organizer'
+    org: 'Moment to Movement: Evolving & Sustaining Anti-Racist Pedagogy'
+    loc: 'College of Arts and Sciences'
+    beg: 2022
+    end: 'Now'
+    key: 'Now-2022B'
+    url: false
+
   - ref: 'Advisor'
     org: 'CS Major and Minor'
     loc: 'Department of Computer Science'
