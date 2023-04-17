@@ -260,8 +260,16 @@ university:
     org: 'Computer Science Bylaws'
     loc: 'Department of Computer Science'
     beg: 2022
-    end: 'Now'
-    key: 'Now-2022A'
+    end: 2023
+    key: '2023A'
+    url: false
+
+  - ref: 'Committee Member'
+    org: 'Tenure-Track Faculty Search'
+    loc: 'MS in Data Science Program'
+    beg: 2022
+    end: 2023
+    key: '2023B'
     url: false
 
   - ref: 'Co-Organizer'

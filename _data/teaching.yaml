@@ -499,7 +499,6 @@
   year: '2022'
   sort: 'CS212-2022-08a'
   link: 'https://usf-cs272-fall2022.github.io/'
-  show: true
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-02'
@@ -507,11 +506,26 @@
   year: '2022'
   sort: 'CS212-2022-08b'
   link: 'https://usf-cs272-fall2022.github.io/'
-  show: true
 - id: 'CS 286'
   name: 'Peer Led Seminar in Tech'
   code: 'CS 286-01'
   sort: 'CS286-2022-08'
   term: 'Fall'
   year: '2022'
+# SPRING 2023
+- id: 'CS 272'
+  name: 'Software Development'
+  code: 'CS 272-01'
+  term: 'Spring'
+  year: '2023'
+  sort: 'CS212-2023-01a'
+  link: 'https://usf-cs272-spring2023.github.io/'
+  show: true
+- id: 'CS 272'
+  name: 'Software Development'
+  code: 'CS 272-02'
+  term: 'Spring'
+  year: '2023'
+  sort: 'CS212-2023-01b'
+  link: 'https://usf-cs272-spring2023.github.io/'
   show: true

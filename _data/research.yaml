@@ -201,6 +201,7 @@
         - icon: 'far fa-file-pdf'
           name: 'Preprint'
           link: 'https://web.cs.ucdavis.edu/~peisert/research/insiderthreat-chapter-final-prepress.pdf'
+
     - year: 2010
       name: 'A Policy-Based Vulnerability Analysis Framework'
       cite: '<b>Sophie Engle</b>, Ph.D. Dissertation, Technical Report CSE-2010-06, Department of Computer Science, University of California, Davis, March 2010'
@@ -213,6 +214,7 @@
         - icon: 'far fa-file-powerpoint'
           name: 'Exit Seminar'
           link: 'pdf/2010 A Policy-Based Vulnerability Analysis Framework (Exit Seminar).pdf'
+
     - year: 2007
       name: 'Source Code Review of the Sequoia Voting System'
       cite: "Matt Blaze, Arel Cordero, <b>Sophie Engle</b>, Chris Karlof, Naveen Sastry, Micah Sherr, Till Stegers, and Ka-Ping Yee, Official Report Prepared for <em>California Secretary of State's Top-to-Bottom Review of California Voting Systems</em>, June 2007"
@@ -241,6 +243,12 @@
 - label: 'Posters and Contests'
   items:
     - year: 2023
+      name: 'Exploring Computer Science Identity Development Among Undergraduate Computer Science Majors'
+      cite: 'Xornam Apedoe, Wen Li, Sami Rollins, Sophie Engle, Alark Joshi, Matthew Malensek, and Chris Brooks, in <em>Proceedings of the 2023 International Conference of the Learning Sciences Annual Meeting (ISLS)</em>, June 2023'
+      link: 'https://2023.isls.org/'
+      tags: ['education']
+
+    - year: 2023
       name: 'Acknowledging Inequities in Tech through a Community-Engaged Learning Course'
       cite: 'Alark Joshi, Sophie Engle, Matthew Malensek, Chris Brooks, Xornam Apedoe, and Star Moore, Poster, in <em>Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE)</em>, March 2023'
       link: 'https://sigcse2023.sigcse.org/details/sigcse-ts-2023-posters/88/Acknowledging-Inequities-in-Tech-through-a-Community-Engaged-Learning-course'
@@ -251,6 +259,7 @@
       cite: 'Alark Joshi, Gian Bruno, Xornam Apedoe, Sophie Engle, Sami Rollins, and Matthew Malensek, Poster, in <em>NSF Grantees Session, American Society for Engineering Education (ASEE) Annual Conference</em>, June 2020'
       link: 'https://www.asee.org/public/conferences/172/papers/30680/view'
       tags: ['education']
+
     - year: 2016
       name: 'Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique'
       cite: 'Seimei Matsusaki, Xi Han, Alark Joshi, <b>Sophie Engle</b>, Poster, in the <em><a href="https://vinci-conf.org/2016/">9th International Symposium on Visual Information Communication and Interaction (VINCI)</a></em>, Dallas, TX, September 2016 <strong>(Best Poster Award)</strong>'
@@ -266,6 +275,7 @@
         - icon: 'far fa-external-link-square'
           link: 'https://cs690.github.io/spring2015-datavis/'
           name: 'Website'
+
     - year: 2006
       name: 'Free Your Data! Cenimation: Visualization for Constrained Displays'
       cite: '<b>Sophie Engle</b>, James Shearer, Michael Ogawa, Steve Haroz, and Kwan-Liu Ma, Creative Winner, <em><a href="https://web.archive.org/web/20070203233500/http://conferences.computer.org/infovis/infovis2006/contest_c.html">IEEE InfoVis Visualization Contest</a></em>, 2006'
