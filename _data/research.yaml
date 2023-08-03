@@ -251,8 +251,12 @@
     - year: 2023
       name: 'Acknowledging Inequities in Tech through a Community-Engaged Learning Course'
       cite: 'Alark Joshi, Sophie Engle, Matthew Malensek, Chris Brooks, Xornam Apedoe, and Star Moore, Poster, in <em>Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE)</em>, March 2023'
-      link: 'https://sigcse2023.sigcse.org/details/sigcse-ts-2023-posters/88/Acknowledging-Inequities-in-Tech-through-a-Community-Engaged-Learning-course'
+      link: 'https://dl.acm.org/doi/abs/10.1145/3545947.3576234'
       tags: ['education']
+      more:
+        - icon: 'far fa-external-link-square'
+          link: 'https://sigcse2023.sigcse.org/details/sigcse-ts-2023-posters/88/Acknowledging-Inequities-in-Tech-through-a-Community-Engaged-Learning-course'
+          name: 'Website'
 
     - year: 2020
       name: 'Engendering Community to Computer Science Freshmen through an Early Arrival Program'
