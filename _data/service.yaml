@@ -474,15 +474,15 @@ professional:
   - ref: 'Steering Committee'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
     beg: 2018-10-22
-    end: 'Now'
-    key: 'Now-2019'
+    end: 2022-10-17
+    key: '20221017'
     url: 'https://vizsec.org/'
 
   - ref: 'Program Committee'
     org: 'Symposium on Visualization for Cyber Security (VizSec)'
-    beg: 2013
-    end: 'Now'
-    key: 'Now-2013'
+    beg: 2013-10-01
+    end: 2022-10-01
+    key: '20221001'
     url: 'https://vizsec.org/'
 
 community:
