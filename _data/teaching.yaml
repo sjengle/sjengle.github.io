@@ -534,7 +534,7 @@
   term: 'Fall'
   year: '2023'
   sort: 'CS212-2023-08a'
-  link: 'https://usf-cs272-fall2023.github.io/'
+  link: 'https://usf-cs272-fall2023.notion.site/'
   show: true
 - id: 'CS 272'
   name: 'Software Development'
@@ -542,5 +542,5 @@
   term: 'Fall'
   year: '2023'
   sort: 'CS212-2023-08b'
-  link: 'https://usf-cs272-fall2023.github.io/'
+  link: 'https://usf-cs272-fall2023.notion.site/'
   show: true
