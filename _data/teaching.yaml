@@ -535,7 +535,6 @@
   year: '2023'
   sort: 'CS212-2023-08a'
   link: 'https://usf-cs272-fall2023.notion.site/'
-  show: true
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-02'
@@ -543,4 +542,20 @@
   year: '2023'
   sort: 'CS212-2023-08b'
   link: 'https://usf-cs272-fall2023.notion.site/'
+# SPRING 2024
+- id: 'CS 272'
+  name: 'Software Development'
+  code: 'CS 272-01'
+  term: 'Spring'
+  year: '2024'
+  sort: 'CS212-2024-01a'
+  link: 'https://usf-cs272-spring2024.notion.site/'
+  show: true
+- id: 'CS 272'
+  name: 'Software Development'
+  code: 'CS 272-02'
+  term: 'Spring'
+  year: '2024'
+  sort: 'CS212-2024-02b'
+  link: 'https://usf-cs272-spring2024.notion.site/'
   show: true
