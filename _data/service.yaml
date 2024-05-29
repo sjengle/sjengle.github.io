@@ -487,10 +487,22 @@ professional:
 
 community:
   - ref: 'Guest Speaker'
+    org: 'Faculty Speaker Series + Dons Talk, ACM Student Chapter, University of San Francisco'
+    beg: false
+    end: 2023-09-14
+    key: '20230914'
+
+  - ref: 'Guest Speaker'
     org: 'International Book Club discussing "There There" by Tommy Orange'
     beg: false
     end: 2021-07-26
     key: '20210726'
+
+  - ref: 'Guest Speaker'
+    org: 'Girl Scouts of the United States of America (GSUSA)'
+    beg: false
+    end: 2017-04-28
+    key: '20170428'
 
   - ref: 'Guest Speaker, <q>Data Visualizing: Primer and Prospects</q>'
     org: 'Five Keys Schools'
