@@ -92,9 +92,10 @@ title: Highlights
 <!-- Courses -->
 <h3>Current Courses</h3>
 
-<p><em class="text-muted"><i class="fas fa-exclamation-triangle"></i> I am not teaching courses over the summer session.</em></p>
-
 <!--
+<p><em class="text-muted"><i class="fas fa-exclamation-triangle"></i> I am not teaching courses over the summer session.</em></p>
+-->
+
 <ul class="list-unstyled">{%
 for course in site.data.teaching %}{%
   if course.show %}
@@ -102,7 +103,6 @@ for course in site.data.teaching %}{%
   endif %}{%
 endfor %}
 </ul>
--->
 
 <!-- Biography -->
 <h3>Biography</h3>
