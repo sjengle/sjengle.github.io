@@ -550,7 +550,6 @@
   year: '2024'
   sort: 'CS212-2024-01a'
   link: 'https://usf-cs272-spring2024.notion.site/'
-  show: true
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-02'
@@ -558,4 +557,20 @@
   year: '2024'
   sort: 'CS212-2024-02b'
   link: 'https://usf-cs272-spring2024.notion.site/'
+# FALL 2024
+- id: 'CS 272'
+  name: 'Software Development with Code Review'
+  code: 'CS 272N-01'
+  term: 'Fall'
+  year: '2024'
+  sort: 'CS212-2024-08'
+  link: 'https://usf-cs272n-fall2024.notion.site'
+  show: true
+- id: 'CS 186'
+  name: 'Building CS Skills and Community'
+  code: 'CS 186-01'
+  term: 'Fall'
+  year: '2024'
+  sort: 'CS186-2024-08'
+  link: 'https://usfca.instructure.com/courses/1623708'
   show: true
