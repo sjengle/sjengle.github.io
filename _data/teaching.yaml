@@ -565,7 +565,6 @@
   year: '2024'
   sort: 'CS212-2024-08'
   link: 'https://usf-cs272n-fall2024.notion.site'
-  show: true
 - id: 'CS 186'
   name: 'Building CS Skills and Community'
   code: 'CS 186-01'
@@ -573,4 +572,20 @@
   year: '2024'
   sort: 'CS186-2024-08'
   link: 'https://usfca.instructure.com/courses/1623708'
+# SPRING 2025
+- id: 'CS 272'
+  name: 'Software Development with Code Review'
+  code: 'CS 272N-01'
+  term: 'Spring'
+  year: '2025'
+  sort: 'CS212-2025-01'
+  link: 'https://usf-cs272n-spring2025.notion.site'
+  show: true
+- id: 'CS 286'
+  name: 'Peer Led Seminar in Tech'
+  code: 'CS 286-01'
+  term: 'Spring'
+  year: '2025'
+  sort: 'CS286-2025-01'
+  link: 'https://usfca.instructure.com/courses/1624833'
   show: true
