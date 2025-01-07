@@ -1,0 +1,52 @@
+---
+layout: default
+title: Students
+---
+
+<h3>Current Students</h3>
+
+<ul class="list-unstyled">{%
+assign students = site.data.students | where_exp: "student", "student.current == true" | sort: "last" %}{% 
+for student in students %}
+  <li>
+    <p> 
+      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a><br/>{% 
+      if student.teaching %} {% 
+        assign teaching = student.teaching | sort: "course" %}
+          Teaching Assistant (x{{ teaching.size }}): {% 
+        for position in teaching %}{% 
+          assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
+          if course %}
+          <a href="{{ course.link}}">{{ course.code | split: "-" | first }} {{ course.term }} {{ course.year }}</a>{% unless forloop.last %}, {% endunless %} {% 
+          endif %}{% 
+        endfor %}{% 
+      endif %}
+        </p>
+      </li>
+    {% endfor %}
+</ul>
+
+<h3>Past Students</h3>
+
+<ul class="list-unstyled">{% 
+assign students = site.data.students | where_exp: "student", "student.current == nil" | sort: "last" | reverse | sort: "graduated" | reverse %}{% 
+for student in students %}
+  <li>
+    <p>
+      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %}<br/>{% 
+  if student.teaching %} {% 
+    assign teaching = student.teaching | sort: "course" %}
+      Teaching Assistant (x{{ teaching.size }}): {% 
+    for position in teaching %}{% 
+      assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
+      if course %}
+      <a href="{{ course.link}}">{{ course.code | split: "-" | first }} {{ course.term }} {{ course.year }}</a>{% unless forloop.last %}, {% endunless %} {% 
+      endif %}{% 
+    endfor %}{% 
+  endif %}
+    </p>
+  </li>
+{% endfor %}
+
+</ul>
+

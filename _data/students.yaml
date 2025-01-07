@@ -1,0 +1,226 @@
+- first: 'Paramdeep'
+  last: 'Sodhi'
+  linkedin: 'https://www.linkedin.com/in/parsodhi/'
+  degree: 'BSCS'
+  current: true
+  teaching:
+    - course: 'CS212-2024-08'
+
+- first: 'Frank'
+  last: 'Guglielmo'
+  linkedin: 'https://www.linkedin.com/in/fdguglielmo/'
+  graduated: 2024-05-16
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2024-01a'
+    - course: 'CS212-2023-08a'
+
+- first: 'Maleke'
+  last: 'Hanson'
+  linkedin: ''
+  graduated: 2024-05-16
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2024-01a'
+    - course: 'CS212-2023-08a'
+
+- first: 'Yordanos'
+  last: 'Solomon'
+  linkedin: ''
+  graduated: 2024-05-16
+  degree: 'BSCS 2022, MSCS'
+  teaching:
+    - course: 'CS212-2024-01a'
+    - course: 'CS212-2023-08a'
+    - course: 'CS212-2023-01a'
+    - course: 'CS212-2022-01a'
+    - course: 'CS212-2021-08a'
+
+- first: 'Clare'
+  last: 'Wilson'
+  linkedin: ''
+  graduated: 2024-05-16
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2023-08a'
+
+- first: 'Michelle'
+  last: 'Quach'
+  linkedin: ''
+  graduated: 2023-05-18
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2023-01a'
+    - course: 'CS212-2022-08a'
+    - course: 'CS212-2022-01a'
+    - course: 'CS212-2021-08a'
+
+- first: 'Haley'
+  last: 'Lenander'
+  linkedin: ''
+  graduated: 2023-05-18
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2023-01a'
+
+- first: 'Isaiah'
+  last: 'Gentle'
+  linkedin: ''
+  graduated: 2022-12-16
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2022-08a'
+    - course: 'CS212-2022-01a'
+
+- first: 'Parsa'
+  last: 'Rahimi'
+  linkedin: ''
+  graduated: 2023-05-18
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2022-08a'
+    - course: 'CS212-2022-01a'
+
+- first: 'Tyler'
+  last: "D'Alessandro"
+  linkedin: ''
+  graduated: 2022-12-16
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2022-01a'
+
+- first: 'Bae Sung'
+  last: 'Kim'
+  linkedin: ''
+  graduated: 2021-12-17
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2021-08a'
+
+- first: 'José'
+  last: 'Corella'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2021-01a'
+
+- first: 'Levin'
+  last: 'Weinstein'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2021-01a'
+
+- first: 'Andrew'
+  last: 'Cabezudo'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2021-01a'
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
