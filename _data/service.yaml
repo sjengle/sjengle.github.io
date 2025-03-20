@@ -290,6 +290,12 @@ university:
   #   end: 2025-02-14
   #   key: '20250214'
 
+  - ref: 'Guest Speaker'
+    org: '"Imposter Syndrome Workshop," Women in Tech Student Group, Department of Computer Science'
+    beg: false
+    end: 2025-03-20
+    key: '20250320'
+
   - ref: 'Co-Organizer'
     org: 'Moment to Movement: Evolving & Sustaining Anti-Racist Pedagogy'
     loc: 'College of Arts and Sciences'
