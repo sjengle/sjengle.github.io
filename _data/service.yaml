@@ -300,8 +300,8 @@ university:
     org: 'Moment to Movement: Evolving & Sustaining Anti-Racist Pedagogy'
     loc: 'College of Arts and Sciences'
     beg: 2022
-    end: 'Now'
-    key: 'Now-2022B'
+    end: 2025
+    key: '2025-2022B'
     url: false
 
   - ref: 'Advisor'
