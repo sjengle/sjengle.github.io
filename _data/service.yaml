@@ -261,7 +261,7 @@ university:
     loc: 'Department of Computer Science'
     beg: 2022
     end: 2023
-    key: '2023A'
+    key: '2023-2022'
     url: false
 
   - ref: 'Committee Member'
@@ -269,15 +269,39 @@ university:
     loc: 'MS in Data Science Program'
     beg: 2022
     end: 2023
-    key: '2023B'
+    key: '2023-2022'
     url: false
+
+  - ref: 'Guest Speaker'
+    org: 'Faculty Speaker Series + Dons Talk, ACM Student Chapter, Department of Computer Science'
+    beg: false
+    end: 2023-09-14
+    key: '20230914'
+
+  - ref: 'Panelist'
+    org: '"How My Identity Shaped My Career in STEM," Diversity in STEM Council, College of Arts and Sciences'
+    beg: false
+    end: 2025-02-13
+    key: '20250213'
+
+  # - ref: 'Moderator'
+  #   org: '"Obstacles and Failures," Faculty Discussion, CS 286 Peer-Led Seminar in Tech, Department of Computer Science'
+  #   beg: false
+  #   end: 2025-02-14
+  #   key: '20250214'
+
+  - ref: 'Guest Speaker'
+    org: '"Imposter Syndrome Workshop," Women in Tech Student Group, Department of Computer Science'
+    beg: false
+    end: 2025-03-20
+    key: '20250320'
 
   - ref: 'Co-Organizer'
     org: 'Moment to Movement: Evolving & Sustaining Anti-Racist Pedagogy'
     loc: 'College of Arts and Sciences'
     beg: 2022
-    end: 'Now'
-    key: 'Now-2022B'
+    end: 2025
+    key: '2025-2022B'
     url: false
 
   - ref: 'Advisor'
@@ -292,8 +316,8 @@ university:
     org: 'Community Engaged Scholars in Computer Science'
     loc: 'Department of Computer Science'
     beg: 2019
-    end: 'Now'
-    key: 'Now-2019'
+    end: '2025'
+    key: '2025-2019'
     url: 'https://scholars.cs.usfca.edu/'
 
 professional:
@@ -486,12 +510,6 @@ professional:
     url: 'https://vizsec.org/'
 
 community:
-  - ref: 'Guest Speaker'
-    org: 'Faculty Speaker Series + Dons Talk, ACM Student Chapter, University of San Francisco'
-    beg: false
-    end: 2023-09-14
-    key: '20230914'
-
   - ref: 'Guest Speaker'
     org: 'International Book Club discussing "There There" by Tommy Orange'
     beg: false
