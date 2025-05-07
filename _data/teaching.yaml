@@ -436,7 +436,7 @@
   name: 'Software Development'
   code: 'CS 212-02'
   term: 'Fall'
-  year: '2019'
+  year: '2020'
   sort: 'CS212-2020-08b'
   link: 'https://usf-cs212-fall2020.github.io/'
 # SPRING 2021
@@ -512,6 +512,7 @@
   sort: 'CS286-2022-08'
   term: 'Fall'
   year: '2022'
+  link: 'https://usfca.instructure.com/courses/1610207'
 # SPRING 2023
 - id: 'CS 272'
   name: 'Software Development'

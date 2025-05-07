@@ -1,3 +1,23 @@
+# TODO: CS 212/272 Spring 2020 and earlier
+# CS 107
+# CS 110
+# CS 186
+# CS 245 DONE
+# CS 286 DONE
+# CS 326
+# CS 360
+# CS 384
+# CS 490
+# CS 560
+# CS 690
+# CS 694
+# CS 695 DONE
+# MSAN 501 
+# MSAN 622
+
+# Add LinkedIn and graduated dates
+# Add Research Assistants
+
 - first: 'Paramdeep'
   last: 'Sodhi'
   linkedin: 'https://www.linkedin.com/in/parsodhi/'
@@ -5,6 +25,7 @@
   current: true
   teaching:
     - course: 'CS212-2024-08'
+    - course: 'CS212-2025-01'
 
 - first: 'Frank'
   last: 'Guglielmo'
@@ -104,6 +125,7 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS212-2021-01a'
+    - course: 'CS212-2020-08a'
 
 - first: 'Levin'
   last: 'Weinstein'
@@ -112,6 +134,7 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS212-2021-01a'
+    - course: 'CS212-2020-08a'
 
 - first: 'Andrew'
   last: 'Cabezudo'
@@ -121,21 +144,21 @@
   teaching:
     - course: 'CS212-2021-01a'
 
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
+- first: 'Evelyn'
+  last: 'Matson'
+  linkedin: 'https://www.linkedin.com/in/evelyn-matson-a19a3716a/'
+  graduated: 2021-05-01
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2020-08a'
 
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
+- first: 'Shah'
+  last: 'El-Rahman'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS245-2011-01'
 
 # - first: ''
 #   last: ''
