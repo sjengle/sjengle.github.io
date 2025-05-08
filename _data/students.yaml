@@ -39,7 +39,7 @@
 
 - first: 'Maleke'
   last: 'Hanson'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/malekechanson/'
   graduated: 2024-05-16
   degree: 'BSCS'
   teaching:
@@ -48,7 +48,7 @@
 
 - first: 'Clare'
   last: 'Wilson'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/clare-josephine-wilson/'
   graduated: 2024-05-16
   degree: 'BSCS'
   teaching:
@@ -56,7 +56,7 @@
 
 - first: 'Haley'
   last: 'Lenander'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/haley-lenander/'
   graduated: 2023-05-18
   degree: 'BSCS'
   teaching:
@@ -66,7 +66,7 @@
 
 - first: 'Parsa'
   last: 'Rahimi'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/parsa-rahimi/'
   graduated: 2023-05-18
   degree: 'BSCS'
   teaching:
@@ -75,7 +75,7 @@
 
 - first: 'Tyler'
   last: "D'Alessandro"
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/tyler-dalessandro/'
   graduated: 2022-12-16
   degree: 'BSCS'
   teaching:
@@ -83,7 +83,7 @@
 
 - first: 'Isaiah'
   last: 'Gentle'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/isaiah-gentle-259864191/'
   graduated: 2022-12-16
   degree: 'BSCS'
   teaching:
@@ -94,7 +94,7 @@
 
 - first: 'Yordanos'
   last: 'Solomon'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/ybsolomon/'
   graduated: 2024-05-16
   degree: 'BSCS 2022, MSCS'
   teaching:
@@ -106,7 +106,7 @@
 
 - first: 'Michelle'
   last: 'Quach'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/michelle-quach-50246619b/'
   graduated: 2023-05-18
   degree: 'BSCS'
   teaching:
@@ -117,7 +117,7 @@
 
 - first: 'Bae Sung'
   last: 'Kim'
-  linkedin: ''
+  # linkedin: ''
   graduated: 2021-12-17
   degree: 'BSCS'
   teaching:
@@ -125,7 +125,7 @@
 
 - first: 'Andrew'
   last: 'Cabezudo'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/andrew-cabezudo/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -135,7 +135,7 @@
 
 - first: 'José'
   last: 'Corella'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/jos%C3%A9-eduardo-corella-carranza-b33804102/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -145,7 +145,7 @@
 
 - first: 'Levin'
   last: 'Weinstein'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/levin-w/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -154,7 +154,7 @@
 
 - first: 'Xiaochen (Chris)'
   last: 'Li'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/xiaochen-li-639ab1176/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -162,7 +162,7 @@
 
 - first: 'Pierce'
   last: 'Hammond'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/pdhammond/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -170,7 +170,7 @@
 
 - first: 'Allison'
   last: 'Wong'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/allisonzywong/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -185,7 +185,7 @@
 
 - first: 'Daniel'
   last: 'Barajas'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/djbarajas/'
   graduated: 
   degree: 'BSCS'
   research:
@@ -196,7 +196,7 @@
 
 - first: 'Alex'
   last: 'Hanson'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/alhanson7210/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -204,7 +204,7 @@
 
 - first: 'Majid'
   last: 'Alturki'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/majid-alturki/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -227,7 +227,7 @@
 
 - first: 'Simon'
   last: 'Lu'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/simonl07/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -237,7 +237,7 @@
 
 - first: 'Olivia'
   last: 'Kumar'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/oliviakumar/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -249,7 +249,7 @@
 
 - first: 'Gordon'
   last: 'Li'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/gordongli/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -258,7 +258,7 @@
 
 - first: 'Pedram'
   last: 'Namiranian'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/pedram-namiranian/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -267,7 +267,7 @@
 
 - first: 'Casey'
   last: 'Haber'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/casey-haber-143716b2/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -280,7 +280,7 @@
 
 - first: 'Kian'
   last: 'Sheik'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/kiansheik/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -290,7 +290,7 @@
 
 - first: 'Melanie'
   last: 'Baybay'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/mbaybay/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -298,15 +298,15 @@
 
 - first: 'Ethan'
   last: 'Wilcox'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/ethan-w-a9528631/'
   graduated: 
   degree: 'BSCS'
   teaching:
     - course: 'CS212-2016-08a'
 
-- first: 'Thanawut'
+- first: 'Thanawut (Jump)'
   last: 'Ananpiriyakul'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/thanawut/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -314,7 +314,7 @@
 
 - first: 'Helen'
   last: 'Chen'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/helenhchen/'
   graduated: 
   degree: 'BSCS'
   research:
@@ -327,7 +327,7 @@
 
 - first: 'Ruiqiang'
   last: 'Wang'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/ruiqiangwang/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -337,7 +337,7 @@
 
 - first: 'Wentao (Victor)'
   last: 'Du'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/duwentaoabc/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -345,7 +345,7 @@
 
 - first: 'William'
   last: 'Chiang'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/william-chiang/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -355,7 +355,7 @@
 
 - first: 'Eric'
   last: 'Fulton'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/eric-fulton-52741434/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -365,7 +365,7 @@
 
 - first: 'Mitchel'
   last: 'Hally'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/mitchel-hally-8a5ab290/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -375,7 +375,7 @@
 
 - first: 'Steely'
   last: 'Morneau'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/morneau/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -383,7 +383,7 @@
 
 - first: 'Pakkapon'
   last: 'Poopaka'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/pakkaponp/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -391,7 +391,7 @@
 
 - first: 'Tim'
   last: 'Likarish'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/tim-likarish/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -399,7 +399,7 @@
 
 - first: 'Justin'
   last: 'Battles'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/justin-battles-75929554/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -410,7 +410,7 @@
 
 - first: 'Chengzhi (Calvin)'
   last: 'Liang'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/chengzhi-liang-08437141/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -419,7 +419,7 @@
 
 - first: 'Shah'
   last: 'El-Rahman'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/itsnayeem/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -428,7 +428,7 @@
 
 - first: 'Paul'
   last: 'Cafardo'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/paul-cafardo-36399890/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -438,7 +438,7 @@
 
 - first: 'Chris'
   last: 'Casey'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/ccasey/'
   graduated: 
   degree: 'BSCS'
   teaching:
@@ -448,7 +448,7 @@
 
 - first: 'Zahara '
   last: 'Docena'
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/zaharazipp/'
   graduated: 
   degree: 'BSCS'
   teaching:
