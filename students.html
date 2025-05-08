@@ -5,25 +5,36 @@ title: Students
 
 <h3>Current Students</h3>
 
-<ul class="list-unstyled">{%
+<ul class="list-unstyled">{% 
 assign students = site.data.students | where_exp: "student", "student.current == true" | sort: "last" %}{% 
 for student in students %}
   <li>
-    <p> 
-      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a><br/>{% 
-      if student.teaching %} {% 
-        assign teaching = student.teaching %}
-          Teaching Assistant (x{{ teaching.size }}): {% 
-        for position in teaching %}{% 
-          assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
-          if course %}
-          <a href="{{ course.link}}">{{ course.code | split: "-" | first }} {{ course.term }} {{ course.year }}</a>{% unless forloop.last %}, {% endunless %} {% 
-          endif %}{% 
-        endfor %}{% 
-      endif %}
-        </p>
-      </li>
-    {% endfor %}
+    <p>
+      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %} {% 
+  if student.teaching %} {% 
+    assign teaching = student.teaching %}
+      <br/>
+      Teaching Assistant (x{{ teaching.size }}): {% 
+    for position in teaching %}{% 
+      assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
+      if course %}
+      <a href="{{ course.link}}">{{ course.code | split: "-" | first }} {{ course.term }} {{ course.year }}</a>{% unless forloop.last %}, {% endunless %} {% 
+      endif %}{% 
+    endfor %}{% 
+    endif %}{% 
+      if student.research %} {% 
+        assign research = student.research %}
+        <br/>
+        Research Assistant (x{{ research.terms.size }}): {{ research.terms |join: ", " }} {% 
+        if research.links %} {% 
+          for link in research.links 
+            %}<a href="{{ link }}">[{{ forloop.index }}]</a> {% 
+          endfor %}
+        {% endif %}
+      {% endif %}
+    </p>
+  </li>
+{% endfor %}
 </ul>
 
 <h3>Past Students</h3>
@@ -33,9 +44,10 @@ assign students = site.data.students | where_exp: "student", "student.current ==
 for student in students %}
   <li>
     <p>
-      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %}<br/>{% 
+      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %} {% 
   if student.teaching %} {% 
     assign teaching = student.teaching %}
+      <br/>
       Teaching Assistant (x{{ teaching.size }}): {% 
     for position in teaching %}{% 
       assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
@@ -43,10 +55,19 @@ for student in students %}
       <a href="{{ course.link}}">{{ course.code | split: "-" | first }} {{ course.term }} {{ course.year }}</a>{% unless forloop.last %}, {% endunless %} {% 
       endif %}{% 
     endfor %}{% 
-  endif %}
+    endif %}{% 
+      if student.research %} {% 
+        assign research = student.research %}
+        <br/>
+        Research Assistant (x{{ research.terms.size }}): {{ research.terms |join: ", " }} {% 
+        if research.links %} {% 
+          for link in research.links 
+            %}<a href="{{ link }}">[{{ forloop.index }}]</a> {% 
+          endfor %}
+        {% endif %}
+      {% endif %}
     </p>
   </li>
 {% endfor %}
-
 </ul>
 

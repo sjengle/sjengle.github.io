@@ -1,5 +1,3 @@
-# TODO: CS 212/272 Spring 2020 and earlier
-
 # Add LinkedIn and graduated dates
 # Add Research Assistants
 
@@ -10,6 +8,12 @@
 #   degree: 'BSCS'
 #   teaching:
 #     - course: ''
+#   research:
+#     terms:
+#       - 'Spring 2017'
+#     links:
+#       - 'https://doi.org/10.1145/2968220.2968241'
+
 
 # STARTED 2024
 
@@ -171,8 +175,24 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS360-2020-01'
+  research:
+    terms:
+      - 'Summer 2018 &ndash; Summer 2020'
+    links:
+      - 'https://doi.org/10.2352/EI.2022.34.1.VDA-415'
 
 # STARTED 2019
+
+- first: 'Daniel'
+  last: 'Barajas'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  research:
+    terms:
+      - 'Summer 2019 &ndash; Spring 2021'
+    links:
+      - 'https://doi.org/10.1109/MCG.2022.3149683'
 
 - first: 'Alex'
   last: 'Hanson'
@@ -199,6 +219,9 @@
     - course: 'CS212-2019-08a'
     - course: 'CS212-2020-01'
     - course: 'CS212-2020-08a'
+  research:
+    terms:
+      - 'Fall 2020 &ndash; Spring 2021'
 
 # STARTED 2018
 
@@ -249,6 +272,11 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS360-2017-01b'
+  research:
+    terms:
+      - 'Spring 2016'
+    links:
+      - 'https://doi.org/10.1145/2968220.2968241'
 
 - first: 'Kian'
   last: 'Sheik'
@@ -283,6 +311,17 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS212-2016-08a'
+
+- first: 'Helen'
+  last: 'Chen'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  research:
+    terms:
+      - 'Spring 2016 &ndash; Spring 2017'
+    links:
+      - 'https://vgl.cs.usfca.edu/animated-sploms/'
 
 # STARTED 2015
 
