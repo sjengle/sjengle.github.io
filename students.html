@@ -29,7 +29,7 @@ for student in students %}
 <h3>Past Students</h3>
 
 <ul class="list-unstyled">{% 
-assign students = site.data.students | where_exp: "student", "student.current == nil" | sort: "last" | reverse | sort: "graduated" | reverse %}{% 
+assign students = site.data.students | where_exp: "student", "student.current == nil" | sort: "last" %}{% 
 for student in students %}
   <li>
     <p>
