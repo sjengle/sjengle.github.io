@@ -1,24 +1,17 @@
 # TODO: CS 212/272 Spring 2020 and earlier
-# CS 107 DONE
-# CS 110 DONE
-# CS 186 DONE
-# CS 245 DONE
-# CS 286 DONE
-# CS 326 DONE
-# CS 360 DONE
-# CS 384 NONE
-# CS 490 NONE
-# CS 560 SEE CS 360
-# CS 690 NONE
-# CS 694 NONE
-# CS 695 DONE
-# MSAN 501 NONE
-# MSAN 622 2013 2014 NONE 2015 DONE
 
 # Add LinkedIn and graduated dates
 # Add Research Assistants
 
-# CURRENT STUDENTS
+# - first: ''
+#   last: ''
+#   linkedin: ''
+#   graduated: 
+#   degree: 'BSCS'
+#   teaching:
+#     - course: ''
+
+# STARTED 2024
 
 - first: 'Paramdeep'
   last: 'Sodhi'
@@ -29,10 +22,6 @@
     - course: 'CS212-2024-08'
     - course: 'CS212-2025-01'
 
-# PAST STUDENTS
-
-# STARTED 2024
-
 # STARTED 2023
 
 - first: 'Frank'
@@ -41,8 +30,8 @@
   graduated: 2024-05-16
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2024-01a'
     - course: 'CS212-2023-08a'
+    - course: 'CS212-2024-01a'
 
 - first: 'Maleke'
   last: 'Hanson'
@@ -50,8 +39,8 @@
   graduated: 2024-05-16
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2024-01a'
     - course: 'CS212-2023-08a'
+    - course: 'CS212-2024-01a'
 
 - first: 'Clare'
   last: 'Wilson'
@@ -77,8 +66,8 @@
   graduated: 2023-05-18
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2022-08a'
     - course: 'CS212-2022-01a'
+    - course: 'CS212-2022-08a'
 
 - first: 'Tyler'
   last: "D'Alessandro"
@@ -94,8 +83,8 @@
   graduated: 2022-12-16
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2022-08a'
     - course: 'CS212-2022-01a'
+    - course: 'CS212-2022-08a'
 
 # STARTED 2021
 
@@ -105,11 +94,11 @@
   graduated: 2024-05-16
   degree: 'BSCS 2022, MSCS'
   teaching:
-    - course: 'CS212-2024-01a'
-    - course: 'CS212-2023-08a'
-    - course: 'CS212-2023-01a'
-    - course: 'CS212-2022-01a'
     - course: 'CS212-2021-08a'
+    - course: 'CS212-2022-01a'
+    - course: 'CS212-2023-01a'
+    - course: 'CS212-2023-08a'
+    - course: 'CS212-2024-01a'
 
 - first: 'Michelle'
   last: 'Quach'
@@ -117,10 +106,10 @@
   graduated: 2023-05-18
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2023-01a'
-    - course: 'CS212-2022-08a'
-    - course: 'CS212-2022-01a'
     - course: 'CS212-2021-08a'
+    - course: 'CS212-2022-01a'
+    - course: 'CS212-2022-08a'
+    - course: 'CS212-2023-01a'
 
 - first: 'Bae Sung'
   last: 'Kim'
@@ -146,8 +135,9 @@
   graduated: 
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2021-01a'
+    - course: 'CS212-2020-01'
     - course: 'CS212-2020-08a'
+    - course: 'CS212-2021-01a'
 
 - first: 'Levin'
   last: 'Weinstein'
@@ -155,16 +145,16 @@
   graduated: 
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2021-01a'
     - course: 'CS212-2020-08a'
+    - course: 'CS212-2021-01a'
 
-- first: 'Evelyn'
-  last: 'Matson'
-  linkedin: 'https://www.linkedin.com/in/evelyn-matson-a19a3716a/'
-  graduated: 2021-05-01
+- first: 'Xiaochen (Chris)'
+  last: 'Li'
+  linkedin: ''
+  graduated: 
   degree: 'BSCS'
   teaching:
-    - course: 'CS212-2020-08a'
+    - course: 'CS212-2020-01'
 
 - first: 'Pierce'
   last: 'Hammond'
@@ -200,17 +190,57 @@
   teaching:
     - course: 'CS360-2019-01'
 
+- first: 'Evelyn'
+  last: 'Matson'
+  linkedin: 'https://www.linkedin.com/in/evelyn-matson-a19a3716a/'
+  graduated: 2021-05-01
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2019-08a'
+    - course: 'CS212-2020-01'
+    - course: 'CS212-2020-08a'
+
+# STARTED 2018
+
+- first: 'Simon'
+  last: 'Lu'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2018-01a'
+    - course: 'CS212-2019-01'
+    - course: 'CS212-2019-08a'
+
+- first: 'Olivia'
+  last: 'Kumar'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2018-01a'
+    - course: 'CS212-2019-01'
+    - course: 'CS212-2019-08a'
+
+# STARTED 2017
+
 - first: 'Gordon'
   last: 'Li'
   linkedin: ''
   graduated: 
   degree: 'BSCS'
   teaching:
+    - course: 'CS212-2017-01a'
     - course: 'CS360-2019-01'
 
-# STARTED 2018
-
-# STARTED 2017
+- first: 'Pedram'
+  last: 'Namiranian'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2017-01a'
+    - course: 'CS212-2018-01a'
 
 - first: 'Casey'
   last: 'Haber'
@@ -238,7 +268,31 @@
   teaching:
     - course: 'CS360-2016-01'
 
+- first: 'Ethan'
+  last: 'Wilcox'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2016-08a'
+
+- first: 'Thanawut'
+  last: 'Ananpiriyakul'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2016-08a'
+
 # STARTED 2015
+
+- first: 'Ruiqiang'
+  last: 'Wang'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2015-08'
 
 # STARTED 2014
 
@@ -250,6 +304,14 @@
   teaching:
     - course: 'MSAN622-2015-01'
 
+- first: 'William'
+  last: 'Chiang'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2014-08'
+
 # STARTED 2013
 
 - first: 'Eric'
@@ -259,6 +321,16 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS360-2013-01a'
+    - course: 'CS212-2013-08'
+    - course: 'CS212-2014-01'
+
+- first: 'Mitchel'
+  last: 'Hally'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2013-08'
 
 # STARTED 2012
 
@@ -278,6 +350,23 @@
   teaching:
     - course: 'CS107-2012-01'
 
+- first: 'Tim'
+  last: 'Likarish'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2012-08a'
+
+- first: 'Justin'
+  last: 'Battles'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2012-08a'
+    - course: 'CS212-2013-01'
+
 # STARTED 2011
 
 - first: 'Chengzhi (Calvin)'
@@ -287,6 +376,7 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS326-2011-08'
+    - course: 'CS212-2012-01'
 
 - first: 'Shah'
   last: 'El-Rahman'
@@ -295,6 +385,7 @@
   degree: 'BSCS'
   teaching:
     - course: 'CS245-2011-01'
+    - course: 'CS212-2011-08a'
 
 - first: 'Paul'
   last: 'Cafardo'
@@ -304,60 +395,22 @@
   teaching:
     - course: 'CS107-2011-01a'
 
+# STARTED 2010
+
 - first: 'Chris'
   last: 'Casey'
   linkedin: ''
   graduated: 
   degree: 'BSCS'
   teaching:
+    - course: 'CS212-2010-08'
     - course: 'CS107-2011-01a'
+    - course: 'CS212-2011-08a'
 
-# STARTED 2010
-
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
-
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
-
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
-
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
-
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
-
-# - first: ''
-#   last: ''
-#   linkedin: ''
-#   graduated: 
-#   degree: 'BSCS'
-#   teaching:
-#     - course: ''
+- first: 'Zahara '
+  last: 'Docena'
+  linkedin: ''
+  graduated: 
+  degree: 'BSCS'
+  teaching:
+    - course: 'CS212-2010-08'
