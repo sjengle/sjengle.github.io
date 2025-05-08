@@ -381,7 +381,9 @@
   sort: 'CS212-2018-01b'
   link: 'https://usf-cs212-fall2018.github.io/'
   show: false
+
 # SPRING 2019
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -414,14 +416,14 @@
   code: 'CS 212-01'
   term: 'Fall'
   year: '2019'
-  sort: 'CS212-2019-01a'
+  sort: 'CS212-2019-08a'
   link: 'https://usf-cs212-fall2019.github.io/'
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-02'
   term: 'Fall'
   year: '2019'
-  sort: 'CS212-2019-01b'
+  sort: 'CS212-2019-08b'
   link: 'https://usf-cs212-fall2019.github.io/'
 - id: 'CS 186'
   name: 'Community Engaged CS'
