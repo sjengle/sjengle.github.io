@@ -1,4 +1,5 @@
 # FALL 2010
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-02'
@@ -20,7 +21,9 @@
   year: '2010'
   sort: 'CS690-2010-08'
   link: 'http://www.cs.usfca.edu/~sjengle/courses/fall2010/cs690/'
+
 # SPRING 2011
+
 - id: 'CS 107'
   name: 'Computing, Mobile Apps, and the Web'
   code: 'CS 107-01'
@@ -42,7 +45,9 @@
   year: '2011'
   sort: 'CS245-2011-01'
   link: 'http://www.cs.usfca.edu/~sjengle/courses/spring2011/cs245/'
+
 # FALL 2011
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -64,7 +69,9 @@
   year: '2011'
   sort: 'CS326-2011-08'
   link: 'https://sites.google.com/a/cs.usfca.edu/cs-326-01-2011-fall/'
+
 # SPRING 2012
+
 - id: 'CS 107'
   name: 'Computing, Mobile Apps, and the Web'
   code: 'CS 107-03'
@@ -86,7 +93,9 @@
   year: '2012'
   sort: 'CS212-2012-01'
   link: 'https://sites.google.com/a/cs.usfca.edu/cs-212-01-2012-spring/'
+
 # FALL 2012
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -108,7 +117,9 @@
   year: '2012'
   sort: 'MSAN501-2012-08'
   link: 'https://sites.google.com/a/cs.usfca.edu/msan501/'
+
 # SPRING 2013
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -137,7 +148,9 @@
   year: '2013'
   sort: 'MSAN622-2012-01'
   link: 'https://sites.google.com/a/analytics.usfca.edu/msan-622-experimental-design-and-visualization/'
+
 # FALL 2013
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -159,7 +172,9 @@
   year: '2013'
   sort: 'CS690-2013-08'
   link: 'https://usanfrancisco.instructure.com/courses/1055173'
+
 # SPRING 2014
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -181,7 +196,9 @@
   year: '2014'
   link: 'http://msan622.github.io/spring2014/'
   sort: 'MSAN622-2014-01'
+
 # SUMMER 2014
+
 - id: 'CS 695'
   name: 'Practicum Study'
   code: 'CS 695-01'
@@ -189,7 +206,9 @@
   year: '2014'
   sort: 'CS695-2014-06'
   link: 'https://usfca.instructure.com/courses/1298148/assignments/syllabus'
+
 # FALL 2014
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -206,7 +225,9 @@
   sort: 'CS695-2014-08'
   link: 'https://usfca.instructure.com/courses/1298684/assignments/syllabus'
   show: false
+
 # SPRING 2015
+
 - id: 'MSAN 622'
   name: 'Information Visualization'
   code: 'MSAN 622-01'
@@ -223,7 +244,9 @@
   sort: 'CS695-2015-01'
   link: 'https://usfca.instructure.com/courses/1479075/assignments/syllabus'
   show: false
+
 # SUMMER 2015
+
 - id: 'CS 695'
   name: 'Practicum Study'
   code: 'CS 695-01'
@@ -231,7 +254,9 @@
   year: '2015'
   sort: 'CS695-2015-06'
   link: 'https://usfca.instructure.com/courses/1555977/assignments/syllabus'
+
 # FALL 2015
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -264,7 +289,9 @@
   sort: 'CS695-2015-08'
   link: 'https://usfca.instructure.com/courses/1553690/assignments/syllabus'
   show: false
+
 # SPRING 2016
+
 - id: 'CS 360'
   name: 'Data Visualization'
   code: 'CS 360-01'
@@ -297,7 +324,9 @@
   sort: 'CS695-2016-01'
   link: 'https://usfca.instructure.com/courses/1558957/assignments/syllabus'
   show: false
+
 # FALL 2016
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -314,7 +343,9 @@
   sort: 'CS212-2016-08b'
   link: 'https://usf-cs212-2016.github.io/'
   show: false
+
 # SPRING 2017
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -331,7 +362,9 @@
   sort: 'CS360-2017-01b'
   link: 'https://github.com/usf-cs360-2017/lectures/wiki'
   show: false
+
 # FALL 2018
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -373,7 +406,9 @@
   sort: 'CS560-2019-01'
   link: 'https://usf-cs360-spring2019.github.io/'
   show: false
+
 # FALL 2019
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -393,9 +428,11 @@
   code: 'CS 186-02'
   term: 'Fall'
   year: '2019'
-  sort: 'CS186-2019'
+  sort: 'CS186-2019-08'
   link: 'https://scholars.cs.usfca.edu/cs186-fall2019/'
+
 # SPRING 2020
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -417,13 +454,15 @@
   year: '2020'
   sort: 'CS560-2020-01'
   link: 'https://usf-cs360-spring2020.github.io/'
+
 # FALL 2020
+
 - id: 'CS 186'
   name: 'Community Engaged CS'
   code: 'CS 186-02'
   term: 'Fall'
   year: '2020'
-  sort: 'CS186-2020'
+  sort: 'CS186-2020-08'
   link: 'https://scholars.cs.usfca.edu/cs186-fall2020/'
 - id: 'CS 272'
   name: 'Software Development'
@@ -439,7 +478,9 @@
   year: '2020'
   sort: 'CS212-2020-08b'
   link: 'https://usf-cs212-fall2020.github.io/'
+
 # SPRING 2021
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 212-01'
@@ -454,14 +495,18 @@
   year: '2021'
   sort: 'CS212-2021-01b'
   link: 'https://usf-cs212-spring2021.github.io/'
+
 # SUMMER 2021
+
 - id: 'CS 272'
   name: 'Software Development Intensive'
   term: 'Summer'
   year: '2021'
   sort: 'CS212-2021-06'
   link: 'https://usfca.instructure.com/courses/1603453'
+
 # FALL 2021
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-01'
@@ -476,7 +521,9 @@
   year: '2021'
   sort: 'CS212-2021-08b'
   link: 'https://usf-cs272-fall2021.github.io/'
+
 # SPRING 2022
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-01'
@@ -491,7 +538,9 @@
   year: '2022'
   sort: 'CS212-2022-01b'
   link: 'https://usf-cs272-spring2022.github.io/'
+
 # FALL 2022
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-01'
@@ -513,7 +562,9 @@
   term: 'Fall'
   year: '2022'
   link: 'https://usfca.instructure.com/courses/1610207'
+
 # SPRING 2023
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-01'
@@ -528,7 +579,9 @@
   year: '2023'
   sort: 'CS212-2023-01b'
   link: 'https://usf-cs272-spring2023.github.io/'
+
 # FALL 2023
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-01'
@@ -543,7 +596,9 @@
   year: '2023'
   sort: 'CS212-2023-08b'
   link: 'https://usf-cs272-fall2023.notion.site/'
+
 # SPRING 2024
+
 - id: 'CS 272'
   name: 'Software Development'
   code: 'CS 272-01'
@@ -558,7 +613,9 @@
   year: '2024'
   sort: 'CS212-2024-02b'
   link: 'https://usf-cs272-spring2024.notion.site/'
+
 # FALL 2024
+
 - id: 'CS 272'
   name: 'Software Development with Code Review'
   code: 'CS 272N-01'
@@ -573,7 +630,9 @@
   year: '2024'
   sort: 'CS186-2024-08'
   link: 'https://usfca.instructure.com/courses/1623708'
+
 # SPRING 2025
+
 - id: 'CS 272'
   name: 'Software Development with Code Review'
   code: 'CS 272N-01'
