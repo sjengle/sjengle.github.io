@@ -12,7 +12,7 @@ for student in students %}
     <p> 
       <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a><br/>{% 
       if student.teaching %} {% 
-        assign teaching = student.teaching | sort: "course" %}
+        assign teaching = student.teaching %}
           Teaching Assistant (x{{ teaching.size }}): {% 
         for position in teaching %}{% 
           assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
@@ -35,7 +35,7 @@ for student in students %}
     <p>
       <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %}<br/>{% 
   if student.teaching %} {% 
-    assign teaching = student.teaching | sort: "course" %}
+    assign teaching = student.teaching %}
       Teaching Assistant (x{{ teaching.size }}): {% 
     for position in teaching %}{% 
       assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
