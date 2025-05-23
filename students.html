@@ -10,7 +10,7 @@ assign students = site.data.students | where_exp: "student", "student.current ==
 for student in students %}
   <li>
     <p>
-      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %} {% 
+      {% if student.linkedin %}<a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% else %}{{ student.first }} {{ student.last }}{% endif %}{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %} {% 
   if student.teaching %} {% 
     assign teaching = student.teaching %}
       <br/>
@@ -37,6 +37,57 @@ for student in students %}
 {% endfor %}
 </ul>
 
+<!-- Teaching Assistants -->
+
+{% assign students = site.data.students | where_exp: "student", "student.research != nil" | sort: "last" %}
+
+<h3>Research Assistants ({{ students | size }})</h3>
+
+<ul class="list-unstyled">{% 
+for student in students %}
+  <li>
+    <p>
+      {% if student.linkedin %}<a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% else %}{{ student.first }} {{ student.last }}{% endif %}{% if student.graduated %} ({{ student.degree }} {{ student.graduated | date: "%Y" }}){% endif %}, {% 
+        assign research = student.research %}
+        {{ research.terms | join: ", " }}{% 
+        if research.links %}, Details: {% 
+          for link in research.links 
+            %}<a href="{{ link.link }}">{{ link.name }}</a>{% unless forloop.last %},{% endunless %} {% 
+          endfor %}
+        {% endif %}
+    </p>
+  </li>
+  
+  {% if forloop.last %}
+</ul>
+  {% endif %}
+{% endfor %}
+
+<p><em>This list only includes students in paid research positions that I funded; there are many more for which I sponsored a project or co-advised on research.</em></p> 
+
+<!-- Teaching Assistants -->
+
+{% assign students = site.data.students | where_exp: "student", "student.teaching != nil" | sort: "last" %}
+
+<h3>Teaching Assistants ({{ students | size }})</h3>
+
+<ul class="list-unstyled">{% 
+for student in students %}
+  <li>
+    <p>
+      {% if student.linkedin %}<a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% else %}{{ student.first }} {{ student.last }}{% endif %}{% if student.graduated %} ({{ student.degree }} {{ student.graduated | date: "%Y" }}){% endif %}, {% 
+    assign teaching = student.teaching %} {% 
+    for position in teaching %}{% 
+      assign course = site.data.teaching | where_exp: "course", "course.sort == position.course" | first %} {% 
+      if course %}
+      <a href="{{ course.link}}">{{ course.code | split: "-" | first }} {{ course.term }} {{ course.year }}</a>{% unless forloop.last %}, {% endunless %} {% 
+      endif %}{% 
+    endfor %}
+    </p>
+  </li>
+{% endfor %}
+</ul>
+
 <h3>Past Students</h3>
 
 <ul class="list-unstyled">{% 
@@ -44,7 +95,7 @@ assign students = site.data.students | where_exp: "student", "student.current ==
 for student in students %}
   <li>
     <p>
-      <a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %} {% 
+      {% if student.linkedin %}<a href="{{ student.linkedin }}">{{ student.first }} {{ student.last }}</a>{% else %}{{ student.first }} {{ student.last }}{% endif %}{% if student.graduated %}, {{ student.degree }} {{ student.graduated | date: "%Y" }}{% endif %} {% 
   if student.teaching %} {% 
     assign teaching = student.teaching %}
       <br/>
