@@ -1,0 +1,138 @@
+
+- name: programs
+  question: |
+    What CS programs do you have at USF?
+  answer: |
+    Our primary degree programs include our undergraduate 4 year [BSCS degree](https://www.usfca.edu/arts-sciences/programs/undergraduate/computer-science) and graduate 2 year [MSCS degree](https://www.usfca.edu/arts-sciences/programs/graduate/computer-science). Students can earn an [AI Concentration](https://www.usfca.edu/arts-sciences/programs/undergraduate/computer-science/ai-concentration) in both degrees. Both programs are practical, project-driven, modern, and rigorous degrees located in the heart of the SF Bay Area and near Silicon Valley.
+    
+    We also offer a combo [BSCS/MSCS 4 + 1 program](https://www.usfca.edu/arts-sciences/programs/undergraduate/computer-science-4-plus-1) that enables students get both a BS and MS degree in 5 years instead of 6 years, as well as a 3 year [MSCS Bridge](https://www.usfca.edu/arts-sciences/programs/graduate/computer-science-bridge) program that enables students without a CS background to complete a MS degree.
+
+    We also occasionally support [professional certificate programs](https://www.usfca.edu/academics/find-your-program/professional-certificates) as well.
+
+- name: phd
+  question: |
+    Do you offer a PhD degree in CS?
+  answer: |
+    No, we do not. Our highest-level [CS program](#programs) is a Master's degree.
+
+- name: admit
+  question: |
+    Can you admit me into your CS program or research lab?
+  answer: |
+    I am *so* glad you are interested in CS at the University of San Francisco and want to work with me! However, I am not directly involved in admission decisions and we do not directly admit students into specific research labs.
+
+    After you join one of [our programs](#programs), there are [opportunities](#join) to work with professors like me on research!
+
+- name: advisor
+  question: |
+    Can you be my academic faculty advisor?
+  answer: |
+    If you are an undergraduate CS major or minor, you can reach out to our [Program Assistant](https://myusf.usfca.edu/arts-sciences/computer-science/contact-us) to request me as your academic advisor. Once that is complete, you should receive updates from me on how to sign up for advising before registration for the next semester begins. If not, [reach out](contact.html) for details.
+    
+    I am not able to advise graduate students. Reach out to the [Graduate Faculty Director](https://myusf.usfca.edu/arts-sciences/computer-science/contact-us) for advising.
+
+- name: reference
+  question: |
+    Can I list you as a reference for a job or internship?
+  answer: |
+    Only if you obtain **written permission** first. 
+    
+    Specifically, if you need a reference to apply for a job or internship, please reach out an obtain written permission **before** listing my name. Otherwise, due to [federal privacy restrictions (FERPA)](https://myusf.usfca.edu/registration/privacy), I may be **unable to disclose** any relevant information when contacted.
+
+    To obtain permission, [reach out via email](contact.html) and **explicitly state** in your message that you are waiving your FERPA rights and allowing me to disclose your academic information to potential employers.
+
+    I will only grant permission if I am able to provide a **positive and accurate** reference. You only need to obtain this written permission once; you do not need to obtain the permission for every job application.
+
+- name: letters
+  question: |
+    Will you write me a recommendation letter for graduate school or a scholarship?
+  answer: |
+    Only if you obtain **written permission** first. 
+    
+    I will only grant that permission if I am able to write a strong and detailed 2 to 3 page recommendation letter within the timeframe, and you waive your [privacy rights (FERPA)](https://myusf.usfca.edu/registration/privacy) that would otherwise limit my ability to write the recommendation.
+
+    To obtain permission, [reach out via email](contact.html) and ask for the letter of recommendation. If I am able to provide a strong recommendation letter, I will ask you to fill out a form to waive your [FERPA rights](https://myusf.usfca.edu/registration/privacy) and provide additional information. This includes your latest resume and transcript, the first application deadline, and either your motivation for applying or a rough essay draft.
+
+    These letters take considerable time to write. Please make requests plenty in advance of the deadline. I may have to decline your request if I already have too many existing requests and too little time before your first deadline.
+
+    Once I have written a letter, you do not need to request permission for every application! You can continue to list me on future applications as long as the letter does not need to be updated. 
+
+- name: join
+  question: |
+    Can I work with you on research?
+  answer: |
+    I'm glad you asked---maybe! There are two primary ways for [qualified](#qualifications) students to work with me on [research](research.html) or projects:
+
+    1. You can apply to be a [research assistant](#research) with me and receive **hourly pay**.
+
+    2. You can apply for a [directed study](#directed) with me and earn **course credit**.
+
+    You need to already be [admitted and enrolled](#qualifications) to qualify. Also, the university does *not* offer tuition remission and does not [directly admit](#admit) students into specific research labs.
+
+- name: research
+  question: 'Can you hire me as a research assistant?'
+  answer: |
+    Maybe! If you meet the [qualifications](#qualifications) and I have an opening relevant to your interests, you may apply for that **research assistant** position.
+
+    These positions are for **existing research** projects and are usually posted to the job board with instructions on how to apply. These positions pay an **hourly wage** only; they do not provide tuition remission. 
+    
+    After applying, it can help to reach out to let me know you are interested in the posted position as well. You are also welcome to [reach out](contact.html) to let me know you are interested even if there isn't a position posted, but odds are low that I will have funding immediately available.
+
+- name: teaching
+  question: 'Can you hire me as a teaching assistant?'
+  answer: |
+    Maybe! If you meet the [qualifications](#qualifications), you may apply for a **teaching assistant** position with the department and request to be assigned to one of my classes. The department will then forward your request to me to consider alongside any other applicants.
+
+    These positions offer an **hourly wage**, not tuition remission. To apply, monitor **email announcements** for the department-wide hiring process each semester. I am not able to hire teaching assistants outside of that process.
+
+- name: directed 
+  question: |
+    Can I take a directed study with you?
+  answer: |
+    Maybe! It depends on whether you meet the [qualifications](#qualifications) and on my workload that semester.
+
+    A **directed study** is a special course that enables students to earn course credit for working on a project with an instructor. The number of credits is flexible, but a minimum of **45 hours of work per credit** is required. Like other courses, directed studies are assigned a grade and count towards your course load that semester.
+    
+    If you are interested, first review the [guidelines](https://myusf.usfca.edu/arts-sciences/faculty-resources/curriculum/courses/directed-study-course-guidelines) for a directed study. Then, [reach out](contact.html) with the project area and number of credits you are interested in.
+    
+    If I accept your request, we will work collaboratively to come up with a title and syllabus (including a project description, estimated timeline, and grade expectations). You will then need to register for the directed study alongside your other courses.
+
+- name: volunteer 
+  question: |
+    Can I volunteer in your research lab?
+  answer: |
+    Usually, no. I do not have the capacity to oversee new volunteers on top of my other responsibilities. 
+    
+    I will *sometimes* allow students that already completed a [directed study](#directed) or [research assistantship](#research) to transition into a volunteer position if they want to continue working on that research.
+
+- name: qualifications
+  question: |
+    What qualifications do you consider?
+  answer: |
+    For research assistants (RAs), teaching assistants (TAs), and directed studies, applicants must be an **admitted and enrolled** student. For paid RA or TA positions, students must also be [eligible to work on-campus](https://myusf.usfca.edu/student-employment).
+
+    I also value applicants with **direct experience**, such as taking a course with me as the instructor, or with a **strong recommendation** from other USF faculty. As such, strong applicants are usually in their **second semester** at USF or later.
+    
+    I value **perseverance** moreso than grades, and appreciate students that contribute to an **inclusive and welcoming** learning environment. This includes participation in the classroom, course discussion boards, student groups, or CS lab spaces. However, students do *not* need to be extroverted to be strong candidates.
+
+- name: highschool
+  question: |
+    I am a high school student. Can I work with you over the summer?
+  answer: |
+    We occasionally run **summer programs** specifically for middle or high school students to learn CS or work on CS-related projects. However, I do not have the capacity to work with unaffiliated minors outside of these programs.
+
+- name: title
+  question: |
+    How should I address you in person or in electronic communications?
+  answer: |
+    Most of the time, you are welcome to address me by my **first name**, Sophie, either in person or in email. 
+    
+    If you prefer to be more formal, you can also combine my **professional titles**, Dr. or Professor, with my first or last name too. For example, Professor Sophie or Dr. Engle are all okay. Professor Engle is ideal for other formal communications. 
+
+    However, I do not welcome gendered titles or those that assume marital status or age.
+
+- name: pronouns
+  question: |
+    What are your pronouns?
+  answer: |
+    I primarily use she/her pronouns, but welcome and encourage the use of gender neutral they/them pronouns as well.
