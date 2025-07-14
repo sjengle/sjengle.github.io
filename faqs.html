@@ -1,0 +1,26 @@
+---
+layout: default
+title: FAQs
+---
+
+<p>Find answers to frequently asked questions here. If your question is not fully answered below, please do not hesitate to <a href="contact.html">reach out</a> for additional clarification.</p>
+
+<h3>Questions</h3>
+
+<ul style="list-style: none; padding-left: unset;">{% 
+for question in site.data.faqs %}
+  <li><a href="#{{ question.name }}">{{ question.question }}</a>
+{% endfor %}
+</ul>
+
+<h3>Answers</h3>
+
+{% for question in site.data.faqs %}
+
+<h4 id="#{{ question.name }}"><a href="#{{ question.name }}" class="text-muted" style="margin-left: -1.5em; padding-right: .25em;"><i class="fa-fw fas fa-link"></i></a>{{ question.question}}</h4>
+
+{{ question.answer | markdownify }}
+
+<br/>
+
+{% endfor %}
