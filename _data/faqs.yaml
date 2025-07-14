@@ -97,6 +97,14 @@
     
     If I accept your request, we will work collaboratively to come up with a title and syllabus (including a project description, estimated timeline, and grade expectations). You will then need to register for the directed study alongside your other courses.
 
+- name: postdoc 
+  question: |
+    Can you hire me as a postdoc?
+  answer: |
+    Usually, no. Most of the funding mechanisms I use to fund research require you to be a [student](#qualifications) enrolled in a degree program that is [eligible to work on-campus](https://myusf.usfca.edu/student-employment).
+
+    Occasionally, the university will have a postdoc program that you may apply to separately and then request to work with a specific professor.
+
 - name: volunteer 
   question: |
     Can I volunteer in your research lab?
@@ -104,6 +112,7 @@
     Usually, no. I do not have the capacity to oversee new volunteers on top of my other responsibilities. 
     
     I will *sometimes* allow students that already completed a [directed study](#directed) or [research assistantship](#research) to transition into a volunteer position if they want to continue working on that research.
+
 
 - name: qualifications
   question: |
