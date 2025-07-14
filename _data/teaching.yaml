@@ -580,7 +580,7 @@
   year: '2025'
   sort: 'CS212-2025-01'
   link: 'https://usf-cs272n-spring2025.notion.site'
-  show: true
+  show: false
 - id: 'CS 286'
   name: 'Peer Led Seminar in Tech'
   code: 'CS 286-01'
@@ -588,4 +588,4 @@
   year: '2025'
   sort: 'CS286-2025-01'
   link: 'https://usfca.instructure.com/courses/1624833'
-  show: true
+  show: false
