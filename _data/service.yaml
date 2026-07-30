@@ -320,6 +320,14 @@ university:
     key: '2025-2019'
     url: 'https://scholars.cs.usfca.edu/'
 
+  - ref: 'Sciences Representative'
+    org: 'USF Faculty Association'
+    loc: 'Policy Board'
+    beg: 2026-08-25
+    end: 'Now'
+    key: 'Now-2026'
+    url: 'https://www.usffa.net/reps'
+
 professional:
   - ref: 'Program Committee'
     org: 'Center of Academic Excellence (CAE) Workshop on Insider Threat (WIT)'

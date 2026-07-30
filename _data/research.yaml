@@ -1,5 +1,10 @@
 - label: 'Refereed Publications'
   items:
+    - year: 2025
+      name: 'WIP: Applying Self-Regulated Learning Principles in an Undergraduate Computer Science Seminar'
+      cite: '<b>Sophie Engle</b>, Kelsey Urgo, and Alark Joshi, in <em>Proceedings of the 2025 IEEE Frontiers in Education Conference (FIE)</em>, November 2025'
+      link: 'https://doi.org/10.1109/FIE63693.2025.11328695'
+      tags: ['education']
     - year: 2023
       name: 'Lessons Learned from Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback'
       cite: 'Daniel Barajas, Xornam Apedoe, David Guy Brizan, Alark Joshi, and <b>Sophie Engle</b>, in <em>IEEE Computer Graphics and Applications</em>, volume 43, issue 1, pages 10-21, Feb 2023'
