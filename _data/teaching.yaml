@@ -589,3 +589,20 @@
   sort: 'CS286-2025-01'
   link: 'https://usfca.instructure.com/courses/1624833'
   show: false
+# FALL 2026
+- id: 'CS 186'
+  name: 'Building CS Skills and Community'
+  code: 'CS 186-01'
+  term: 'Fall'
+  year: '2026'
+  sort: 'CS186-2026-08'
+  link: ''
+  show: true
+- id: 'CS 272'
+  name: 'Software Development with Code Review'
+  code: 'CS 272N-01'
+  term: 'Fall'
+  year: '2026'
+  sort: 'CS212-2026-08'
+  link: 'https://cs272n.notion.site/fall2026'
+  show: true
