@@ -596,7 +596,7 @@
   term: 'Fall'
   year: '2026'
   sort: 'CS186-2026-08'
-  link: ''
+  link: 'https://sjengle.notion.site/cs186-fall2026'
   show: true
 - id: 'CS 272'
   name: 'Software Development with Code Review'
